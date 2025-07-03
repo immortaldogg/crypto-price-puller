@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+.pnpm-debug.log
+
+# dotenv / local env
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+*.tsbuildinfo
+
+# IDEs/editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.swp
+
+# Optional: skip compiled JS if using TS
+# *.js
+# *.js.map

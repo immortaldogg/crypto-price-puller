@@ -1,0 +1,21 @@
+{
+  "name": "crypto-price-puller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "better-sqlite3": "^12.2.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
