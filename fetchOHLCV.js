@@ -1,7 +1,6 @@
-const fetch = require("node-fetch");
+import fetch from "node-fetch";
 
-async function fetchOHLCV(symbol, startTime, endTime) {
-    const limit = 1;
+export async function fetchOHLCV(symbol, startTime, endTime, limit = 1) {
     const url = `https://api.binance.com/api/v3/klines?symbol=${symbol}&interval=1d&startTime=${startTime}&endTime=${endTime}&limit=${limit}`;
 
     try {
@@ -13,5 +12,3 @@ async function fetchOHLCV(symbol, startTime, endTime) {
         return [];
     }
 }
-
-module.exports = { fetchOHLCV };

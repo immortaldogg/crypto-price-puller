@@ -1,6 +1,7 @@
-const { getTopCoins } = require("./fetchCoins");
-const { fetchOHLCV } = require("./fetchOHLCV");
-const { saveCandles } = require("./db");
+import { getTopCoins } from "./fetchCoins.js";
+import { fetchOHLCV } from "./fetchOHLCV.js";
+import { saveCandles } from "./db.js";
+import { writeFileSync } from "fs";
 
 const delay = (ms) => new Promise(r => setTimeout(r, ms));
 const START_TIME = new Date("2024-01-01T00:00:00Z").getTime();
@@ -11,21 +12,28 @@ async function main() {
 
     for (const coin of coins) {
         console.log(`\n🔄 Fetching ${coin.binanceSymbol}...`);
+        try {
+            const candles = await fetchOHLCV(coin.binanceSymbol, START_TIME, NOW, 400);
+            if (candles.length <= 0) {
+                console.log(`\n🔄 No info on ${coin.binanceSymbol}...`);
+            } else {
+                console.log(`\n🔄 Inserting ${candles.length} 1D candles ${coin.binanceSymbol}...`);
+                saveCandles(coin.binanceSymbol, candles);
+            }
+        } catch (e) {
+            let log = "";
+            log += `\n🔄 No info on ${coin.binanceSymbol}...`;
+            log += `\nError: `;
+            log += e;
 
-        let startTime = START_TIME;
-        while (startTime < NOW) {
-            const chunk = await fetchOHLCV(coin.binanceSymbol, startTime, NOW);
-            if (chunk.length === 0) break;
+            writeFileSync("./logs/pull.log", log);
 
-            saveCandles(coin.binanceSymbol, chunk);
-
-            const lastTime = chunk[chunk.length - 1][0];
-            startTime = lastTime + 1;
-
-            await delay(400); // to avoid rate limits
+            console.log();
+            console.log('\x1b[31m%s\x1b[0m', log);
         }
-    }
 
+        await delay(3000); // to avoid rate limits
+    }
     console.log("\n✅ Done.");
 }
 

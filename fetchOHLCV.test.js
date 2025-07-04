@@ -5,7 +5,7 @@ describe("fetchOHLCV", () => {
     it("pulls recent candles from Binance", async () => {
         const start = new Date("2024-01-01T00:00:00Z").getTime();
         const end = start + 10 * 24 * 60 * 60 * 1000;
-        const data = await fetchOHLCV("BTCUSDT", start, end);
+        const data = await fetchOHLCV("BTCUSDT", start, end, 1);
         expect(Array.isArray(data)).toBe(true);
         expect(data.length).toBeGreaterThan(0);
         expect(data[0]).toHaveLength(12); // Binance kline structure

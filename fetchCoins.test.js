@@ -1,5 +1,3 @@
-import fetch from 'node-fetch';
-global.fetch = fetch;
 import { getTopCoins } from "./fetchCoins";
 import { describe, it, expect } from "vitest";
 
