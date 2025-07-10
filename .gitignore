@@ -37,3 +37,7 @@ build/
 
 # Only ignore the specific test.js file if it's temporary
 test.js
+
+# Database files
+*.db
+binance_prices.db

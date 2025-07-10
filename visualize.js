@@ -23,6 +23,11 @@ function transformToPresentation(symbol) {
     let previousHighestPrice = 0;
     let afterPivotHighestPrice = 0;
 
+    if (candles.length <= 1) {
+        console.log('\x1b[31m%s\x1b[0m', 'SKIP BECAUSE NOT ENOUGH CANDLES');
+        return;
+    }
+    
     let earliestDate = new Date(candles[1].open_time);
     let latestDate = new Date(candles[candles.length - 1].open_time);
 

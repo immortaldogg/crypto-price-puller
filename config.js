@@ -5,3 +5,5 @@ export const FILTER_OUT_STAKES = ['wbtc', 'wsteth', 'weth', 'cbbtc', 'susde', 'l
 export const COINMARKETCAP_KEY = process.env.COINMARKETCAP_KEY;
 
 export const DB_PATH = "binance_prices.db";
+
+export const START_TIME = new Date("2021-01-01T00:00:00Z").getTime();
