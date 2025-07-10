@@ -1,6 +1,9 @@
 import { exportToCsvBySymbol } from "./db.js";
-import { getTopCoins } from "./fetchCoins.js";
+import { getTopCoins, getCoinMarketcapCoins } from "./fetchCoins.js";
 import { fetchOHLCV } from "./fetchOHLCV.js";
+import { saveCandles } from "./db.js";
+
+
 
 // let rs = await getTopCoins();
 
@@ -8,4 +11,29 @@ import { fetchOHLCV } from "./fetchOHLCV.js";
 
 // console.log(rs2);
 
-exportToCsvBySymbol('EIGENUSDT');
+// const t = new Date(1734134400000);
+// console.log(t.toISOString());
+
+// const START_TIME = new Date("2024-01-01T00:00:00Z").getTime();
+// const NOW = Date.now();
+
+// let exchangeSymbol = 'XMRUSDT';
+
+// const candles = await fetchOHLCV(exchangeSymbol, START_TIME, NOW, 1000);
+
+// if (candles.length <= 0) {
+//     console.log(`\n🔄 No info on ${exchangeSymbol}...`);
+// } else {
+//     console.log(`\n🔄 Inserting ${candles.length} 1D candles ${exchangeSymbol}...`);
+//     saveCandles(exchangeSymbol, candles);
+// }
+
+// console.log(
+//     '\x1b[32m%s\x1b[0m \x1b[33m%s\x1b[0m \x1b[31m%s\x1b[0m',
+//     'GreenText',
+//     'YellowText',
+//     'RedText'
+// );
+
+let rs = await getCoinMarketcapCoins();
+console.log(rs);
