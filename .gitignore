@@ -35,4 +35,4 @@ build/
 # *.js
 # *.js.map
 
-test.js
+./test.js
