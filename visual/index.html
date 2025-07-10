@@ -1,0 +1,27 @@
+<div id="chart"></div>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script>
+    const data = [{
+        x: [250, 50, 120],         // X% gain from summer
+        y: [-60, -30, -80],        // Y% drawdown
+        text: ['INJ', 'JTO', 'ORDI'],
+        mode: 'markers+text',
+        type: 'scatter',
+        textposition: 'top center',
+        marker: {
+            size: [40, 15, 25],      // Z% pump size
+            color: [40, 15, 25],
+            colorscale: 'Viridis',
+            showscale: true
+        }
+    }];
+
+    const layout = {
+        title: 'Coin Movement Classifier',
+        xaxis: { title: 'Gain from Summer Low (%)', zeroline: true },
+        yaxis: { title: 'Drawdown from Top (%)', zeroline: true },
+        showlegend: false
+    };
+
+    Plotly.newPlot('chart', data, layout);
+</script>

@@ -35,4 +35,5 @@ build/
 # *.js
 # *.js.map
 
-./test.js
+# Only ignore the specific test.js file if it's temporary
+test.js

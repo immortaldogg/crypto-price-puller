@@ -1,8 +1,7 @@
 import { writeFileSync } from "fs";
 import { Parser } from "json2csv";
 import Database from "better-sqlite3";
-
-const DB_PATH = "binance_prices.db";
+import { DB_PATH } from './config.js';
 
 const db = new Database(DB_PATH);
 
@@ -29,6 +28,8 @@ export function saveCandles(symbol, rows) {
     const insertMany = db.transaction((data) => {
         for (const r of data) {
             insert.run(symbol, r[0], r[1], r[2], r[3], r[4], r[5], r[6]);
+            console.log("Inserting candle...");
+            console.log(`${new Date(parseInt(r[0])).toISOString()} ${r[1]} ${r[2]} ${r[3]} ${r[4]} ${r[5]} ${r[6]}`);
         }
     });
     insertMany(rows);
@@ -50,15 +51,20 @@ export function exportToCsv({ dbPath, table, outFile, where = "" }) {
     console.log(`✅ Exported ${rows.length} rows to ${outFile}`);
 }
 
-// function ensureFolderExists(filePath) {
-//     const dir = path.dirname(filePath);
-//     if (!fs.existsSync(dir)) {
-//         fs.mkdirSync(dir, { recursive: true });
-//     }
-// }
+export function getAllSymbols() {
+    const query = `SELECT DISTINCT symbol FROM prices`;
+    const rows = db.prepare(query).all();
+    return rows;
+}
+
+export function getCandlesBySymbol(symbol) {
+    const query = `SELECT * FROM prices WHERE symbol = '${symbol}' ORDER BY open_time ASC`;
+    const rows = db.prepare(query).all();
+    return rows;
+}
 
 export function exportToCsvBySymbol(symbol) {
-    const query = `SELECT symbol, open_time, close_time, open, high, low, close, volume FROM prices WHERE symbol = '${symbol}'`;
+    const query = `SELECT symbol, open_time, close_time, open, high, low, close, volume FROM prices WHERE symbol = '${symbol}' ORDER BY open_time ASC`;
     const rows = db.prepare(query).all();
 
     if (rows.length === 0) {
