@@ -34,3 +34,5 @@ build/
 # Optional: skip compiled JS if using TS
 # *.js
 # *.js.map
+
+test.js
