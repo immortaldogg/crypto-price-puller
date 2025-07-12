@@ -1,21 +1,28 @@
 import { getAllSymbols, getCandlesBySymbol } from "./db.js";
-import chalk from 'chalk';
+import fs from 'fs';
 
 let pivotRange = {
-    start: new Date('2025-04-01'),
-    end: new Date('2025-04-30')
+    pivot1: new Date('2024-11-01'),
+    pivot2: new Date('2025-03-01'),
+    pivot3: new Date('2025-04-30'),
+    prevHighRange: new Date('2024-11-01'),
+    prevHighRangeEnd: new Date('2025-03-01'),
+    start: new Date('2025-01-01'),
+    end: new Date('2025-04-30'),
+    pivotLow: new Date('2025-01-01')
 }
 let symbols = getAllSymbols().map(s => s.symbol);
 
 let results = [];
 
-for (const symbol of symbols) { transformToPresentation(symbol); }
-// transformToPresentation('AAVEUSDT');
-
+for (const symbol of symbols) { 
+    // if (symbol !== 'FARTCOINUSDT') continue;
+    // if (symbol === 'ABUSDT') continue;
+    transformToPresentation(symbol); 
+}
 
 function transformToPresentation(symbol) {
     const candles = getCandlesBySymbol(symbol);
-    // console.log('SYMBOL ', symbol);
 
     let highestPrice = 0;
     let lowestPrice = 500000;
@@ -54,7 +61,7 @@ function transformToPresentation(symbol) {
         if (openTime > pivotRange.end) {
             previousHighestPrice = highestPrice;
             afterPivotHighestPrice = Math.max(afterPivotHighestPrice, parseFloat(candle.high));
-            lowestPrice = Math.min(lowestPrice, parseFloat(candle.low));
+            lowestPrice = Math.min(lowestPrice, Math.min(parseFloat(candle.open), parseFloat(candle.close)));
         }
     }
 
@@ -65,7 +72,6 @@ function transformToPresentation(symbol) {
         console.log('\x1b[31m%s\x1b[0m', 'SKIP BECAUSE NOT ENOUGH DATA');
         return;
     }
-
     results.push({
         Symbol: symbol,
         'Earliest Date': earliestDate.toISOString().split('T')[0],
@@ -73,45 +79,14 @@ function transformToPresentation(symbol) {
         'Prev High': previousHighestPrice,
         'Lowest': lowestPrice,
         'After Pivot High': afterPivotHighestPrice,
-        'Drop from Prev High (%)': parseFloat(dropFromPreviousHighest.toFixed(2)),
+        'Drop from Prev High (%)': -parseFloat(dropFromPreviousHighest.toFixed(2)),
         'Rise from Lowest after Pivot (%)': parseFloat(riseFromLowestPrice.toFixed(2))
     });
-
-    // console.log(`${symbol} ${dropFromPreviousHighest}% ${riseFromLowestPrice}%`);
-    // console.log('Earliest Date ', earliestDate);
-    // console.log('Latest Date ', latestDate);
-    // console.log('Previous Highest Price ', previousHighestPrice);
-    // if (afterPivotHighestPrice === 0) console.log('\x1b[31m%s\x1b[0m', 'SEOMTHING WRONG');
-    // console.log('After Pivot Highest Price ', afterPivotHighestPrice);
-    // console.log('Lowest Price ', lowestPrice);
-    // console.log('--------------------------------');
-
-    // 2. output to data
-
 }
 
-function makeColoredBar(value, max, length = 20) {
-    const barLength = Math.round((value / max) * length);
-    return '█'.repeat(barLength) + ' '.repeat(length - barLength);
-}
-
-const maxDrop = Math.max(...results.map(r => r['Rise from Lowest after Pivot (%)']));
-results.forEach(r => {
-    r['Rise Bar'] = makeColoredBar(r['Rise from Lowest after Pivot (%)'], maxDrop);
-});
-
+// Sort results by rise percentage
 results.sort((c1, c2) => c2['Rise from Lowest after Pivot (%)'] - c1['Rise from Lowest after Pivot (%)']);
 
-console.table(results, [
-    'Symbol',
-    'Rise Bar',
-    'Rise from Lowest after Pivot (%)',
-    'Drop from Prev High (%)',
-    'Earliest Date',
-    'Latest Date',
-    'Prev High',
-    'Lowest',
-    'After Pivot High'
-]);
-
-export default results;
+// Export to JSON file
+fs.writeFileSync('./visual/data.json', JSON.stringify(results, null, 2));
+console.log(`Exported ${results.length} results to visual/data.json`); 

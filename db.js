@@ -24,6 +24,11 @@ const insert = db.prepare(`
   VALUES (?, ?, ?, ?, ?, ?, ?, ?)
 `);
 
+/**
+ * Saves candle data to the database
+ * @param {string} symbol - The trading symbol (e.g., 'BTCUSDT')
+ * @param {Array} rows - Array of candle data rows
+ */
 export function saveCandles(symbol, rows) {
     const insertMany = db.transaction((data) => {
         for (const r of data) {
@@ -35,6 +40,14 @@ export function saveCandles(symbol, rows) {
     insertMany(rows);
 }
 
+/**
+ * Exports data from database to CSV file
+ * @param {Object} options - Export options
+ * @param {string} options.dbPath - Path to the database file
+ * @param {string} options.table - Table name to export
+ * @param {string} options.outFile - Output CSV file path
+ * @param {string} [options.where] - Optional WHERE clause for filtering
+ */
 export function exportToCsv({ dbPath, table, outFile, where = "" }) {
     const db = new Database(dbPath);
     const query = `SELECT * FROM ${table} ${where}`;
@@ -51,18 +64,31 @@ export function exportToCsv({ dbPath, table, outFile, where = "" }) {
     console.log(`✅ Exported ${rows.length} rows to ${outFile}`);
 }
 
+/**
+ * Gets all unique symbols from the prices table
+ * @returns {Array} Array of objects containing symbol information
+ */
 export function getAllSymbols() {
     const query = `SELECT DISTINCT symbol FROM prices`;
     const rows = db.prepare(query).all();
     return rows;
 }
 
+/**
+ * Retrieves all candle data for a specific symbol
+ * @param {string} symbol - The trading symbol to get data for
+ * @returns {Array} Array of candle data objects
+ */
 export function getCandlesBySymbol(symbol) {
     const query = `SELECT * FROM prices WHERE symbol = '${symbol}' ORDER BY open_time ASC`;
     const rows = db.prepare(query).all();
     return rows;
 }
 
+/**
+ * Exports candle data for a specific symbol to CSV format
+ * @param {string} symbol - The trading symbol to export
+ */
 export function exportToCsvBySymbol(symbol) {
     const query = `SELECT symbol, open_time, close_time, open, high, low, close, volume FROM prices WHERE symbol = '${symbol}' ORDER BY open_time ASC`;
     const rows = db.prepare(query).all();

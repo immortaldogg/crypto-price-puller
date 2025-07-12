@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "vitest run"
+    "test": "vitest run",
+    "dev-visual": "node export-data.js && cd visual && python -m http.server 8000 && cd -"
   },
   "author": "",
   "license": "ISC",

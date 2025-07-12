@@ -23,8 +23,8 @@ export async function getCoinMarketcapCoins() {
     const coins = await res.json();
 
     return coins.data
-        .filter(c => !STABLES.includes(c.symbol.toLowerCase()))
-        .filter(c => !STAKES.includes(c.symbol.toLowerCase()))
+        .filter(c => !FILTER_OUT_STABLES.includes(c.symbol.toLowerCase()))
+        .filter(c => !FILTER_OUT_STAKES.includes(c.symbol.toLowerCase()))
         .map(c => ({
             id: c.id,
             name: c.name,
