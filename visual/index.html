@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Crypto Price Analysis</title>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script type="module" src="chart.js"></script>
     <style>
         body {
             margin: 0;
@@ -71,118 +72,11 @@
     <div class="controls">
         <input type="text" id="symbolFilter" class="filter-input"
             placeholder="Enter symbol to filter (e.g., BTC, ETH, SOL)">
-        <button onclick="filterBySymbol()" class="filter-button">Filter</button>
-        <button onclick="filterExcludeBySymbol()" class="filter-button">Exclude filter</button>
-        <button onclick="clearFilter()" class="clear-button">Clear Filter</button>
+        <button id="filterBtn" class="filter-button">Filter</button>
+        <button id="excludeBtn" class="filter-button">Exclude filter</button>
+        <button id="clearBtn" class="clear-button">Clear Filter</button>
     </div>
     <div id="chart"></div>
-
-    <script>
-        // Global variable to store all data
-        let allData = [];
-        let filteredData = [];
-
-        function createChart(data) {
-            const chartData = [{
-                x: data.map(r => r["Rise from Lowest after Pivot (%)"]),
-                y: data.map(r => r["Drop from Prev High (%)"]),
-                text: data.map(r => r["Symbol"]),
-                mode: 'markers+text',
-                type: 'scatter',
-                textposition: 'top center',
-                hoverinfo: 'all',
-                hovertemplate:
-                    '<b>%{text}</b><br>' +
-                    'Rise from Low: %{x:.1f}%<br>' +
-                    'Drawdown from High: %{y:.1f}%<br>' +
-                    'Previous High: $%{customdata[0]:.4f}<br>' +
-                    'Lowest Price: $%{customdata[1]:.4f}<br>' +
-                    'After Pivot High: $%{customdata[2]:.4f}<br>' +
-                    'Earliest Date: %{customdata[3]}<br>' +
-                    'Latest Date: %{customdata[4]}<br>' +
-                    '<extra></extra>',
-                customdata: data.map(r => [
-                    r['Prev High'],
-                    r['Lowest'],
-                    r['After Pivot High'],
-                    r['Earliest Date'],
-                    r['Latest Date']
-                ]),
-                marker: {
-                    size: data.map(r => Math.min(20, Math.max(5, r["Rise from Lowest after Pivot (%)"] / 10))),
-                    color: data.map(r => r["Rise from Lowest after Pivot (%)"]),
-                    colorscale: 'Viridis',
-                    showscale: true
-                }
-            }];
-
-            const layout = {
-                title: 'Coin Movement Classifier',
-                height: 800,
-                xaxis: { title: 'Gain from Low (%)', zeroline: true },
-                yaxis: { title: 'Drawdown from Previous Top (%)', zeroline: true },
-                showlegend: false
-            };
-
-            /* experimental */
-            
-            /* experimental */
-
-            Plotly.newPlot('chart', chartData, layout);
-        }
-
-        // Filter function
-        function filterBySymbol() {
-            const filterValues = document.getElementById('symbolFilter').value.trim().toUpperCase().split(',');
-
-            if (!filterValues && filterValues.length === 0) {
-                filteredData = allData;
-            } else {
-                filteredData = allData.filter(item =>
-                    item.Symbol && filterValues.some(filterValue => item.Symbol.toUpperCase().includes(filterValue))
-                );
-            }
-
-            createChart(filteredData);
-            console.log(`Filtered to ${filteredData.length} items matching "${filterValue}"`);
-        }
-
-        function filterExcludeBySymbol() {
-            const filterValues = document.getElementById('symbolFilter').value.trim().toUpperCase().split(',');
-
-            if (!filterValues && filterValues.length === 0) {
-                filteredData = allData;
-            } else {
-                filteredData = allData.filter(item =>
-                    item.Symbol && !filterValues.some(filterValue => item.Symbol.toUpperCase().includes(filterValue))
-                );
-            }
-
-            createChart(filteredData);
-            console.log(`Filtered to ${filteredData.length} items matching "${filterValue}"`);
-        }
-
-        // Clear filter function
-        function clearFilter() {
-            document.getElementById('symbolFilter').value = '';
-            filteredData = allData;
-            createChart(filteredData);
-            console.log('Filter cleared, showing all data');
-        }
-
-        // Load data from a JSON file (you'll need to create this)
-        fetch('./data.json')
-            .then(response => response.json())
-            .then(data => {
-                allData = data;
-                filteredData = data;
-                createChart(data);
-            })
-            .catch(error => {
-                console.log('No data file found. Please run your Node.js script first.');
-                console.log('You can also paste your results data directly into this file.');
-            });
-    </script>
 </body>
 
 </html>

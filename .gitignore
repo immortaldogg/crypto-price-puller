@@ -36,7 +36,7 @@ build/
 # *.js.map
 
 # Only ignore the specific test.js file if it's temporary
-test.js
+src/test.js
 
 # Database files
 *.db

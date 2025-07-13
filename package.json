@@ -1,24 +1,39 @@
 {
-  "name": "crypto-price-puller",
+  "name": "fetch-prices-cli",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "./dist/fetchPricesCLI.js",
   "scripts": {
     "test": "vitest run",
-    "dev-visual": "node export-data.js && cd visual && python -m http.server 8000 && cd -"
+    "dev-visual": "node src/export-data.js && cd src/visual && python -m http.server 8000 && cd -"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "type": "module",
+  "bin": {
+    "fetch-prices": "./dist/fetchPricesCLI.js"
+  },
   "dependencies": {
-    "axios": "^1.10.0",
     "better-sqlite3": "^12.2.0",
-    "chalk": "^5.4.1",
+    "commander": "^11.1.0",
     "dotenv": "^17.2.0",
     "json2csv": "^6.0.0-alpha.2",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^2.7.0"
   },
   "devDependencies": {
-    "vitest": "^3.2.4"
+    "@types/axios": "^0.9.36",
+    "@types/commander": "^2.12.0",
+    "@types/node": "^24.0.13",
+    "@types/node-fetch": "^2.6.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "pkg": {
+    "scripts": [
+      "./dist/fetchPricesCLI.js"
+    ],
+    "assets": [
+      "./node_modules/**/*"
+    ]
   }
 }
