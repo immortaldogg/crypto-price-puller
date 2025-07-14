@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "vitest run",
-    "dev-visual": "node export-data.js && cd visual && python -m http.server 8000 && cd -"
+    "dev-visual": "node exportData2.js && cd visual && python -m http.server 8000 && cd -"
   },
   "author": "",
   "license": "ISC",

@@ -70,10 +70,13 @@
 <body>
     <div class="controls">
         <input type="text" id="symbolFilter" class="filter-input"
-            placeholder="Enter symbol to filter (e.g., BTC, ETH, SOL)">
+            placeholder="Enter symbol to filter (e.g., BTC, ETH, SOL)"
+            value="bananas31,leo,pengu,omni,aura,fun,mog,knc">
         <button onclick="filterBySymbol()" class="filter-button">Filter</button>
         <button onclick="filterExcludeBySymbol()" class="filter-button">Exclude filter</button>
         <button onclick="clearFilter()" class="clear-button">Clear Filter</button>
+        <button onclick="toggleDataPoints()" class="filter-button">Toggle Points</button>
+        <button onclick="toggleZones()" class="filter-button">Toggle Zones</button>
     </div>
     <div id="chart"></div>
 
@@ -83,9 +86,18 @@
         let filteredData = [];
 
         function createChart(data) {
+            // Calculate median values for quadrant lines
+            const drawdownValues = data.map(r => r["Drop from Prev High (%)"]);
+            const gainValues = data.map(r => r["Rise from Lowest after Pivot (%)"]);
+            
+            const medianDrawdown = drawdownValues.sort((a, b) => a - b)[Math.floor(drawdownValues.length / 2)];
+            const medianGain = gainValues.sort((a, b) => a - b)[Math.floor(gainValues.length / 2)];
+            
+            console.log(`Median Drawdown: ${medianDrawdown}%, Median Gain: ${medianGain}%`);
+            
             const chartData = [{
-                x: data.map(r => r["Rise from Lowest after Pivot (%)"]),
-                y: data.map(r => r["Drop from Prev High (%)"]),
+                y: data.map(r => r["Rise from Lowest after Pivot (%)"]),
+                x: data.map(r => r["Drop from Prev High (%)"]),
                 text: data.map(r => r["Symbol"]),
                 mode: 'markers+text',
                 type: 'scatter',
@@ -93,8 +105,8 @@
                 hoverinfo: 'all',
                 hovertemplate:
                     '<b>%{text}</b><br>' +
-                    'Rise from Low: %{x:.1f}%<br>' +
-                    'Drawdown from High: %{y:.1f}%<br>' +
+                    'Rise from Low: %{y:.1f}%<br>' +
+                    'Drawdown from High: %{x:.1f}%<br>' +
                     'Previous High: $%{customdata[0]:.4f}<br>' +
                     'Lowest Price: $%{customdata[1]:.4f}<br>' +
                     'After Pivot High: $%{customdata[2]:.4f}<br>' +
@@ -119,14 +131,146 @@
             const layout = {
                 title: 'Coin Movement Classifier',
                 height: 800,
-                xaxis: { title: 'Gain from Low (%)', zeroline: true },
-                yaxis: { title: 'Drawdown from Previous Top (%)', zeroline: true },
-                showlegend: false
+                yaxis: { title: 'Gain from Low (%)', zeroline: true },
+                xaxis: { 
+                    title: 'Drawdown from Previous Top (%)', 
+                    zeroline: true,
+                    autorange: 'reversed'
+                },
+                showlegend: true,
+                shapes: [
+                    // Vertical median line (drawdown)
+                    {
+                        type: 'line',
+                        x0: medianDrawdown, x1: medianDrawdown,
+                        y0: 0, y1: 500,
+                        line: { color: 'black', width: 2, dash: 'dash' },
+                        layer: 'below'
+                    },
+                    // Horizontal median line (gain)
+                    {
+                        type: 'line',
+                        x0: 0, x1: -100,
+                        y0: medianGain, y1: medianGain,
+                        line: { color: 'black', width: 2, dash: 'dash' },
+                        layer: 'below'
+                    },
+                    // 7 horizontal zones with incremental colors (y-axis - gain)
+                    {
+                        type: 'rect',
+                        x0: 0, x1: -100,
+                        y0: 0, y1: 71.4,
+                        fillcolor: 'rgba(255, 0, 0, 0.1)', // Red
+                        line: { color: 'rgba(255, 0, 0, 0.3)' },
+                        layer: 'below'
+                    },
+                    {
+                        type: 'rect',
+                        x0: 0, x1: -100,
+                        y0: 71.4, y1: 142.8,
+                        fillcolor: 'rgba(255, 127, 0, 0.1)', // Orange
+                        line: { color: 'rgba(255, 127, 0, 0.3)' },
+                        layer: 'below'
+                    },
+                    {
+                        type: 'rect',
+                        x0: 0, x1: -100,
+                        y0: 142.8, y1: 214.2,
+                        fillcolor: 'rgba(255, 255, 0, 0.1)', // Yellow
+                        line: { color: 'rgba(255, 255, 0, 0.3)' },
+                        layer: 'below'
+                    },
+                    {
+                        type: 'rect',
+                        x0: 0, x1: -100,
+                        y0: 214.2, y1: 285.6,
+                        fillcolor: 'rgba(0, 255, 0, 0.1)', // Green
+                        line: { color: 'rgba(0, 255, 0, 0.3)' },
+                        layer: 'below'
+                    },
+                    {
+                        type: 'rect',
+                        x0: 0, x1: -100,
+                        y0: 285.6, y1: 357,
+                        fillcolor: 'rgba(0, 255, 255, 0.1)', // Cyan
+                        line: { color: 'rgba(0, 255, 255, 0.3)' },
+                        layer: 'below'
+                    },
+                    {
+                        type: 'rect',
+                        x0: 0, x1: -100,
+                        y0: 357, y1: 428.4,
+                        fillcolor: 'rgba(0, 0, 255, 0.1)', // Blue
+                        line: { color: 'rgba(0, 0, 255, 0.3)' },
+                        layer: 'below'
+                    },
+                    {
+                        type: 'rect',
+                        x0: 0, x1: -100,
+                        y0: 428.4, y1: 500,
+                        fillcolor: 'rgba(255, 0, 255, 0.1)', // Magenta
+                        line: { color: 'rgba(255, 0, 255, 0.3)' },
+                        layer: 'below'
+                    },
+                    // 7 vertical zones with incremental colors (x-axis - drawdown)
+                    {
+                        type: 'rect',
+                        x0: 0, x1: -14.3,
+                        y0: 0, y1: 500,
+                        fillcolor: 'rgba(255, 0, 0, 0.05)', // Red
+                        line: { color: 'rgba(255, 0, 0, 0.2)' },
+                        layer: 'below'
+                    },
+                    {
+                        type: 'rect',
+                        x0: -14.3, x1: -28.6,
+                        y0: 0, y1: 500,
+                        fillcolor: 'rgba(255, 127, 0, 0.05)', // Orange
+                        line: { color: 'rgba(255, 127, 0, 0.2)' },
+                        layer: 'below'
+                    },
+                    {
+                        type: 'rect',
+                        x0: -28.6, x1: -42.9,
+                        y0: 0, y1: 500,
+                        fillcolor: 'rgba(255, 255, 0, 0.05)', // Yellow
+                        line: { color: 'rgba(255, 255, 0, 0.2)' },
+                        layer: 'below'
+                    },
+                    {
+                        type: 'rect',
+                        x0: -42.9, x1: -57.1,
+                        y0: 0, y1: 500,
+                        fillcolor: 'rgba(0, 255, 0, 0.05)', // Green
+                        line: { color: 'rgba(0, 255, 0, 0.2)' },
+                        layer: 'below'
+                    },
+                    {
+                        type: 'rect',
+                        x0: -57.1, x1: -71.4,
+                        y0: 0, y1: 500,
+                        fillcolor: 'rgba(0, 255, 255, 0.05)', // Cyan
+                        line: { color: 'rgba(0, 255, 255, 0.2)' },
+                        layer: 'below'
+                    },
+                    {
+                        type: 'rect',
+                        x0: -71.4, x1: -85.7,
+                        y0: 0, y1: 500,
+                        fillcolor: 'rgba(0, 0, 255, 0.05)', // Blue
+                        line: { color: 'rgba(0, 0, 255, 0.2)' },
+                        layer: 'below'
+                    },
+                    {
+                        type: 'rect',
+                        x0: -85.7, x1: -100,
+                        y0: 0, y1: 500,
+                        fillcolor: 'rgba(255, 0, 255, 0.05)', // Magenta
+                        line: { color: 'rgba(255, 0, 255, 0.2)' },
+                        layer: 'below'
+                    }
+                ]
             };
-
-            /* experimental */
-            
-            /* experimental */
 
             Plotly.newPlot('chart', chartData, layout);
         }
@@ -168,6 +312,40 @@
             filteredData = allData;
             createChart(filteredData);
             console.log('Filter cleared, showing all data');
+        }
+
+        // Toggle data points visibility
+        function toggleDataPoints() {
+            const chart = document.getElementById('chart');
+            if (chart.data && chart.data.length > 0) {
+                const currentVisibility = chart.data[0].visible;
+                const newVisibility = currentVisibility === 'legendonly' ? true : 'legendonly';
+                Plotly.restyle('chart', { visible: newVisibility });
+                console.log('Data points toggled:', newVisibility === true ? 'ON' : 'OFF');
+            }
+        }
+
+        // Toggle zones visibility
+        function toggleZones() {
+            const chart = document.getElementById('chart');
+            if (chart.layout && chart.layout.shapes) {
+                const shapes = chart.layout.shapes;
+                const newShapes = shapes.map(shape => ({
+                    ...shape,
+                    fillcolor: shape.fillcolor === 'rgba(0,0,0,0)' ? 
+                        (shape.fillcolor.includes('0.1') ? shape.fillcolor : 'rgba(255, 0, 0, 0.1)') : 
+                        'rgba(0,0,0,0)',
+                    line: {
+                        ...shape.line,
+                        color: shape.line.color === 'rgba(0,0,0,0)' ? 
+                            (shape.line.color.includes('0.2') ? shape.line.color : 'rgba(255, 0, 0, 0.2)') : 
+                            'rgba(0,0,0,0)'
+                    }
+                }));
+                
+                Plotly.relayout('chart', { shapes: newShapes });
+                console.log('Zones toggled');
+            }
         }
 
         // Load data from a JSON file (you'll need to create this)

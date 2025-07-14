@@ -2,7 +2,7 @@
   {
     "Symbol": "BANANAS31USDT",
     "Earliest Date": "2024-12-09",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.0071236,
     "Lowest": 0.0052609,
     "After Pivot High": 0.0741098,
@@ -10,9 +10,29 @@
     "Rise from Lowest after Pivot (%)": 1308.69
   },
   {
+    "Symbol": "LEOUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.0004897,
+    "Lowest": 0.0001395,
+    "After Pivot High": 0.0006,
+    "Drop from Prev High (%)": -71.51,
+    "Rise from Lowest after Pivot (%)": 330.11
+  },
+  {
+    "Symbol": "PENGUUSDT",
+    "Earliest Date": "2024-12-19",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.017928,
+    "Lowest": 0.007738,
+    "After Pivot High": 0.031,
+    "Drop from Prev High (%)": -56.84,
+    "Rise from Lowest after Pivot (%)": 300.62
+  },
+  {
     "Symbol": "OMNIUSDT",
     "Earliest Date": "2024-04-19",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 3.672,
     "Lowest": 1.369,
     "After Pivot High": 5.484,
@@ -20,9 +40,19 @@
     "Rise from Lowest after Pivot (%)": 300.58
   },
   {
+    "Symbol": "FUNUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.010219,
+    "Lowest": 0.005196,
+    "After Pivot High": 0.018887,
+    "Drop from Prev High (%)": -49.15,
+    "Rise from Lowest after Pivot (%)": 263.49
+  },
+  {
     "Symbol": "AURAUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.012001,
     "Lowest": 0.004005,
     "After Pivot High": 0.014464,
@@ -30,49 +60,29 @@
     "Rise from Lowest after Pivot (%)": 261.15
   },
   {
-    "Symbol": "PENGUUSDT",
-    "Earliest Date": "2024-12-19",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.017502,
-    "Lowest": 0.007737,
-    "After Pivot High": 0.0244,
-    "Drop from Prev High (%)": -55.79,
-    "Rise from Lowest after Pivot (%)": 215.37
-  },
-  {
-    "Symbol": "FUNUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.010219,
-    "Lowest": 0.005196,
-    "After Pivot High": 0.014384,
-    "Drop from Prev High (%)": -49.15,
-    "Rise from Lowest after Pivot (%)": 176.83
-  },
-  {
-    "Symbol": "STRXUSDT",
-    "Earliest Date": "2024-03-30",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.03375,
-    "Lowest": 0.02259,
-    "After Pivot High": 0.062,
-    "Drop from Prev High (%)": -33.07,
-    "Rise from Lowest after Pivot (%)": 174.46
-  },
-  {
     "Symbol": "MOGUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.0000014822,
     "Lowest": 6.731e-7,
-    "After Pivot High": 0.000001812,
+    "After Pivot High": 0.000001975,
     "Drop from Prev High (%)": -54.59,
-    "Rise from Lowest after Pivot (%)": 169.2
+    "Rise from Lowest after Pivot (%)": 193.42
+  },
+  {
+    "Symbol": "KNCUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.4272,
+    "Lowest": 0.2703,
+    "After Pivot High": 0.752,
+    "Drop from Prev High (%)": -36.73,
+    "Rise from Lowest after Pivot (%)": 178.21
   },
   {
     "Symbol": "EULUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 10.899,
     "Lowest": 6.77,
     "After Pivot High": 16.985,
@@ -80,9 +90,29 @@
     "Rise from Lowest after Pivot (%)": 150.89
   },
   {
+    "Symbol": "SKIUSDT",
+    "Earliest Date": "2024-12-07",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.11944,
+    "Lowest": 0.03062,
+    "After Pivot High": 0.07665,
+    "Drop from Prev High (%)": -74.36,
+    "Rise from Lowest after Pivot (%)": 150.33
+  },
+  {
+    "Symbol": "1INCHUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.2508,
+    "Lowest": 0.1572,
+    "After Pivot High": 0.3912,
+    "Drop from Prev High (%)": -37.32,
+    "Rise from Lowest after Pivot (%)": 148.85
+  },
+  {
     "Symbol": "PROMUSDT",
     "Earliest Date": "2025-01-17",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 6.097,
     "Lowest": 3.178,
     "After Pivot High": 7.886,
@@ -90,29 +120,39 @@
     "Rise from Lowest after Pivot (%)": 148.14
   },
   {
-    "Symbol": "SKIUSDT",
-    "Earliest Date": "2024-12-07",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.11944,
-    "Lowest": 0.03062,
-    "After Pivot High": 0.07405,
-    "Drop from Prev High (%)": -74.36,
-    "Rise from Lowest after Pivot (%)": 141.84
-  },
-  {
     "Symbol": "SUPRAUSDT",
     "Earliest Date": "2024-11-29",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.007899,
     "Lowest": 0.001914,
-    "After Pivot High": 0.004399,
+    "After Pivot High": 0.004713,
     "Drop from Prev High (%)": -75.77,
-    "Rise from Lowest after Pivot (%)": 129.83
+    "Rise from Lowest after Pivot (%)": 146.24
+  },
+  {
+    "Symbol": "ARKUSDT",
+    "Earliest Date": "2022-02-20",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.5569,
+    "Lowest": 0.3078,
+    "After Pivot High": 0.7477,
+    "Drop from Prev High (%)": -44.73,
+    "Rise from Lowest after Pivot (%)": 142.92
+  },
+  {
+    "Symbol": "BONKUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.00002582,
+    "Lowest": 0.00001142,
+    "After Pivot High": 0.00002647,
+    "Drop from Prev High (%)": -55.77,
+    "Rise from Lowest after Pivot (%)": 131.79
   },
   {
     "Symbol": "ALTUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.0074,
     "Lowest": 0.00156,
     "After Pivot High": 0.0035,
@@ -120,29 +160,49 @@
     "Rise from Lowest after Pivot (%)": 124.36
   },
   {
-    "Symbol": "HSKUSDT",
-    "Earliest Date": "2024-11-28",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.611,
-    "Lowest": 0.3316,
-    "After Pivot High": 0.7192,
-    "Drop from Prev High (%)": -45.73,
-    "Rise from Lowest after Pivot (%)": 116.89
+    "Symbol": "XLMUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.3347,
+    "Lowest": 0.2167,
+    "After Pivot High": 0.4826,
+    "Drop from Prev High (%)": -35.26,
+    "Rise from Lowest after Pivot (%)": 122.7
   },
   {
-    "Symbol": "BONKUSDT",
-    "Earliest Date": "2023-12-17",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.00002581,
-    "Lowest": 0.00001143,
-    "After Pivot High": 0.00002456,
-    "Drop from Prev High (%)": -55.71,
-    "Rise from Lowest after Pivot (%)": 114.87
+    "Symbol": "HSKUSDT",
+    "Earliest Date": "2024-11-28",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.611,
+    "Lowest": 0.3316,
+    "After Pivot High": 0.72,
+    "Drop from Prev High (%)": -45.73,
+    "Rise from Lowest after Pivot (%)": 117.13
+  },
+  {
+    "Symbol": "SOLOUSDT",
+    "Earliest Date": "2022-02-14",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.3082,
+    "Lowest": 0.21307,
+    "After Pivot High": 0.46,
+    "Drop from Prev High (%)": -30.87,
+    "Rise from Lowest after Pivot (%)": 115.89
+  },
+  {
+    "Symbol": "SNEKUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.0043527,
+    "Lowest": 0.0015407,
+    "After Pivot High": 0.0032907,
+    "Drop from Prev High (%)": -64.6,
+    "Rise from Lowest after Pivot (%)": 113.58
   },
   {
     "Symbol": "AICUSDT",
     "Earliest Date": "2024-09-11",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.354996,
     "Lowest": 0.071654,
     "After Pivot High": 0.15,
@@ -152,7 +212,7 @@
   {
     "Symbol": "OSAKUSDT",
     "Earliest Date": "2024-10-03",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.788e-7,
     "Lowest": 6.01e-8,
     "After Pivot High": 1.255e-7,
@@ -160,29 +220,29 @@
     "Rise from Lowest after Pivot (%)": 108.82
   },
   {
-    "Symbol": "SNEKUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.0043527,
-    "Lowest": 0.0015407,
-    "After Pivot High": 0.0032,
-    "Drop from Prev High (%)": -64.6,
-    "Rise from Lowest after Pivot (%)": 107.7
+    "Symbol": "XPRUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.0043162,
+    "Lowest": 0.0025036,
+    "After Pivot High": 0.005162,
+    "Drop from Prev High (%)": -42,
+    "Rise from Lowest after Pivot (%)": 106.18
   },
   {
-    "Symbol": "1INCHUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.2508,
-    "Lowest": 0.1572,
-    "After Pivot High": 0.3225,
-    "Drop from Prev High (%)": -37.32,
-    "Rise from Lowest after Pivot (%)": 105.15
+    "Symbol": "CPOOLUSDT",
+    "Earliest Date": "2024-11-22",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.1902,
+    "Lowest": 0.0851,
+    "After Pivot High": 0.1738,
+    "Drop from Prev High (%)": -55.26,
+    "Rise from Lowest after Pivot (%)": 104.23
   },
   {
     "Symbol": "DOGUSDT",
     "Earliest Date": "2024-06-26",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.00575,
     "Lowest": 0.002579,
     "After Pivot High": 0.005239,
@@ -190,19 +250,19 @@
     "Rise from Lowest after Pivot (%)": 103.14
   },
   {
-    "Symbol": "SOLOUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.3082,
-    "Lowest": 0.21307,
-    "After Pivot High": 0.42834,
-    "Drop from Prev High (%)": -30.87,
-    "Rise from Lowest after Pivot (%)": 101.03
+    "Symbol": "HBARUSDT",
+    "Earliest Date": "2022-05-09",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.22871,
+    "Lowest": 0.12604,
+    "After Pivot High": 0.25185,
+    "Drop from Prev High (%)": -44.89,
+    "Rise from Lowest after Pivot (%)": 99.82
   },
   {
     "Symbol": "GOATUSDT",
     "Earliest Date": "2024-10-15",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.25283,
     "Lowest": 0.07868,
     "After Pivot High": 0.15624,
@@ -211,8 +271,8 @@
   },
   {
     "Symbol": "WILDUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-11-12",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.2748,
     "Lowest": 0.095,
     "After Pivot High": 0.1876,
@@ -220,9 +280,49 @@
     "Rise from Lowest after Pivot (%)": 97.47
   },
   {
+    "Symbol": "NPCUSDT",
+    "Earliest Date": "2024-03-27",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.019785,
+    "Lowest": 0.009957,
+    "After Pivot High": 0.019589,
+    "Drop from Prev High (%)": -49.67,
+    "Rise from Lowest after Pivot (%)": 96.74
+  },
+  {
+    "Symbol": "PINUSDT",
+    "Earliest Date": "2024-12-21",
+    "Latest Date": "2025-07-13",
+    "Prev High": 1.1472,
+    "Lowest": 0.36,
+    "After Pivot High": 0.7068,
+    "Drop from Prev High (%)": -68.62,
+    "Rise from Lowest after Pivot (%)": 96.33
+  },
+  {
+    "Symbol": "MOCAUSDT",
+    "Earliest Date": "2024-07-13",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.11924,
+    "Lowest": 0.06023,
+    "After Pivot High": 0.11695,
+    "Drop from Prev High (%)": -49.49,
+    "Rise from Lowest after Pivot (%)": 94.17
+  },
+  {
+    "Symbol": "IPUSDT",
+    "Earliest Date": "2025-02-15",
+    "Latest Date": "2025-07-13",
+    "Prev High": 5.294,
+    "Lowest": 2.56,
+    "After Pivot High": 4.939,
+    "Drop from Prev High (%)": -51.64,
+    "Rise from Lowest after Pivot (%)": 92.93
+  },
+  {
     "Symbol": "QRLUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.75165,
     "Lowest": 0.52446,
     "After Pivot High": 1.008,
@@ -230,19 +330,9 @@
     "Rise from Lowest after Pivot (%)": 92.2
   },
   {
-    "Symbol": "MAGICUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-10",
-    "Prev High": 0.30307,
-    "Lowest": 0.11709,
-    "After Pivot High": 0.22274,
-    "Drop from Prev High (%)": -61.37,
-    "Rise from Lowest after Pivot (%)": 90.23
-  },
-  {
     "Symbol": "SAGAUSDT",
     "Earliest Date": "2024-04-13",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.4555,
     "Lowest": 0.1857,
     "After Pivot High": 0.3504,
@@ -252,7 +342,7 @@
   {
     "Symbol": "SPXUSDT",
     "Earliest Date": "2024-10-12",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.7438,
     "Lowest": 0.9146,
     "After Pivot High": 1.723,
@@ -260,19 +350,9 @@
     "Rise from Lowest after Pivot (%)": 88.39
   },
   {
-    "Symbol": "LEOUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.0004897,
-    "Lowest": 0.0001395,
-    "After Pivot High": 0.0002619,
-    "Drop from Prev High (%)": -71.51,
-    "Rise from Lowest after Pivot (%)": 87.74
-  },
-  {
     "Symbol": "VANRYUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.04761,
     "Lowest": 0.02181,
     "After Pivot High": 0.04082,
@@ -280,49 +360,59 @@
     "Rise from Lowest after Pivot (%)": 87.16
   },
   {
-    "Symbol": "SEIUSDT",
-    "Earliest Date": "2023-08-17",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.275,
-    "Lowest": 0.1913,
-    "After Pivot High": 0.3552,
-    "Drop from Prev High (%)": -30.44,
-    "Rise from Lowest after Pivot (%)": 85.68
+    "Symbol": "AUCTIONUSDT",
+    "Earliest Date": "2021-02-09",
+    "Latest Date": "2025-07-13",
+    "Prev High": 16.913,
+    "Lowest": 7.783,
+    "After Pivot High": 14.535,
+    "Drop from Prev High (%)": -53.98,
+    "Rise from Lowest after Pivot (%)": 86.75
   },
   {
-    "Symbol": "NPCUSDT",
-    "Earliest Date": "2024-03-27",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.019785,
-    "Lowest": 0.009957,
-    "After Pivot High": 0.018419,
-    "Drop from Prev High (%)": -49.67,
-    "Rise from Lowest after Pivot (%)": 84.99
+    "Symbol": "SEIUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.275,
+    "Lowest": 0.1912,
+    "After Pivot High": 0.3552,
+    "Drop from Prev High (%)": -30.47,
+    "Rise from Lowest after Pivot (%)": 85.77
   },
   {
     "Symbol": "CHILLGUYUSDT",
     "Earliest Date": "2024-11-22",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.11861,
     "Lowest": 0.03978,
-    "After Pivot High": 0.07346,
+    "After Pivot High": 0.07375,
     "Drop from Prev High (%)": -66.46,
-    "Rise from Lowest after Pivot (%)": 84.67
+    "Rise from Lowest after Pivot (%)": 85.39
   },
   {
-    "Symbol": "XLMUSDT",
-    "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.3347,
-    "Lowest": 0.2168,
-    "After Pivot High": 0.4001,
-    "Drop from Prev High (%)": -35.23,
-    "Rise from Lowest after Pivot (%)": 84.55
+    "Symbol": "DSYNCUSDT",
+    "Earliest Date": "2024-05-22",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.21,
+    "Lowest": 0.0811,
+    "After Pivot High": 0.14961,
+    "Drop from Prev High (%)": -61.38,
+    "Rise from Lowest after Pivot (%)": 84.48
+  },
+  {
+    "Symbol": "MORPHOUSDT",
+    "Earliest Date": "2024-11-23",
+    "Latest Date": "2025-07-13",
+    "Prev High": 1.82,
+    "Lowest": 1.0801,
+    "After Pivot High": 1.99,
+    "Drop from Prev High (%)": -40.65,
+    "Rise from Lowest after Pivot (%)": 84.24
   },
   {
     "Symbol": "MOODENGUSDT",
     "Earliest Date": "2024-09-21",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.34387,
     "Lowest": 0.12017,
     "After Pivot High": 0.22101,
@@ -330,19 +420,19 @@
     "Rise from Lowest after Pivot (%)": 83.91
   },
   {
-    "Symbol": "DSYNCUSDT",
-    "Earliest Date": "2024-05-22",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.21,
-    "Lowest": 0.0811,
-    "After Pivot High": 0.149,
-    "Drop from Prev High (%)": -61.38,
-    "Rise from Lowest after Pivot (%)": 83.72
+    "Symbol": "CFXUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.10759,
+    "Lowest": 0.05999,
+    "After Pivot High": 0.10972,
+    "Drop from Prev High (%)": -44.24,
+    "Rise from Lowest after Pivot (%)": 82.9
   },
   {
     "Symbol": "AEVOUSDT",
     "Earliest Date": "2024-03-15",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.16067,
     "Lowest": 0.06697,
     "After Pivot High": 0.12222,
@@ -351,8 +441,8 @@
   },
   {
     "Symbol": "CYBERUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.6439,
     "Lowest": 1.0872,
     "After Pivot High": 1.9621,
@@ -360,29 +450,9 @@
     "Rise from Lowest after Pivot (%)": 80.47
   },
   {
-    "Symbol": "IPUSDT",
-    "Earliest Date": "2025-02-15",
-    "Latest Date": "2025-07-11",
-    "Prev High": 5.294,
-    "Lowest": 2.56,
-    "After Pivot High": 4.617,
-    "Drop from Prev High (%)": -51.64,
-    "Rise from Lowest after Pivot (%)": 80.35
-  },
-  {
-    "Symbol": "CBKUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-10",
-    "Prev High": 0.6617,
-    "Lowest": 0.4126,
-    "After Pivot High": 0.7415,
-    "Drop from Prev High (%)": -37.65,
-    "Rise from Lowest after Pivot (%)": 79.71
-  },
-  {
     "Symbol": "DEGENUSDT",
     "Earliest Date": "2024-03-28",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.008897,
     "Lowest": 0.002637,
     "After Pivot High": 0.004733,
@@ -390,9 +460,19 @@
     "Rise from Lowest after Pivot (%)": 79.48
   },
   {
+    "Symbol": "ALGOUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.2593,
+    "Lowest": 0.1518,
+    "After Pivot High": 0.2702,
+    "Drop from Prev High (%)": -41.46,
+    "Rise from Lowest after Pivot (%)": 78
+  },
+  {
     "Symbol": "PONKEUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.23149,
     "Lowest": 0.08924,
     "After Pivot High": 0.15799,
@@ -402,7 +482,7 @@
   {
     "Symbol": "ZBCNUSDT",
     "Earliest Date": "2024-04-29",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.0071973,
     "Lowest": 0.0023035,
     "After Pivot High": 0.0040716,
@@ -411,18 +491,18 @@
   },
   {
     "Symbol": "FLOKIUSDT",
-    "Earliest Date": "2023-05-07",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-10-10",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.0001237,
-    "Lowest": 0.00005923,
+    "Lowest": 0.00005929,
     "After Pivot High": 0.00010467,
-    "Drop from Prev High (%)": -52.12,
-    "Rise from Lowest after Pivot (%)": 76.72
+    "Drop from Prev High (%)": -52.07,
+    "Rise from Lowest after Pivot (%)": 76.54
   },
   {
     "Symbol": "FARTCOINUSDT",
     "Earliest Date": "2024-10-23",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.64634,
     "Lowest": 0.79511,
     "After Pivot High": 1.3938,
@@ -430,9 +510,19 @@
     "Rise from Lowest after Pivot (%)": 75.3
   },
   {
+    "Symbol": "SCRUSDT",
+    "Earliest Date": "2024-10-24",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.4609,
+    "Lowest": 0.2076,
+    "After Pivot High": 0.3638,
+    "Drop from Prev High (%)": -54.96,
+    "Rise from Lowest after Pivot (%)": 75.24
+  },
+  {
     "Symbol": "XVGUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-19",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.0087,
     "Lowest": 0.004183,
     "After Pivot High": 0.007299,
@@ -442,17 +532,17 @@
   {
     "Symbol": "ENAUSDT",
     "Earliest Date": "2024-04-04",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.4633,
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.463,
     "Lowest": 0.2224,
     "After Pivot High": 0.3879,
-    "Drop from Prev High (%)": -52,
+    "Drop from Prev High (%)": -51.97,
     "Rise from Lowest after Pivot (%)": 74.42
   },
   {
     "Symbol": "FIDAUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.11985,
     "Lowest": 0.05224,
     "After Pivot High": 0.09023,
@@ -460,19 +550,9 @@
     "Rise from Lowest after Pivot (%)": 72.72
   },
   {
-    "Symbol": "CPOOLUSDT",
-    "Earliest Date": "2024-11-22",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.1902,
-    "Lowest": 0.0851,
-    "After Pivot High": 0.14686,
-    "Drop from Prev High (%)": -55.26,
-    "Rise from Lowest after Pivot (%)": 72.57
-  },
-  {
     "Symbol": "BBUSDT",
     "Earliest Date": "2024-05-15",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.20141,
     "Lowest": 0.07286,
     "After Pivot High": 0.12521,
@@ -481,8 +561,8 @@
   },
   {
     "Symbol": "ARBUSDT",
-    "Earliest Date": "2023-03-25",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.505,
     "Lowest": 0.2526,
     "After Pivot High": 0.4332,
@@ -490,29 +570,9 @@
     "Rise from Lowest after Pivot (%)": 71.5
   },
   {
-    "Symbol": "SCRUSDT",
-    "Earliest Date": "2024-10-24",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.4609,
-    "Lowest": 0.2076,
-    "After Pivot High": 0.3557,
-    "Drop from Prev High (%)": -54.96,
-    "Rise from Lowest after Pivot (%)": 71.34
-  },
-  {
-    "Symbol": "CFXUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.10759,
-    "Lowest": 0.05999,
-    "After Pivot High": 0.102,
-    "Drop from Prev High (%)": -44.24,
-    "Rise from Lowest after Pivot (%)": 70.03
-  },
-  {
     "Symbol": "USUALUSDT",
     "Earliest Date": "2024-12-20",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.2004,
     "Lowest": 0.0594,
     "After Pivot High": 0.1008,
@@ -521,8 +581,8 @@
   },
   {
     "Symbol": "RAYUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-03-20",
+    "Latest Date": "2025-07-13",
     "Prev High": 3.8667,
     "Lowest": 1.735,
     "After Pivot High": 2.939,
@@ -532,7 +592,7 @@
   {
     "Symbol": "DEEPUSDT",
     "Earliest Date": "2024-10-16",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.253427,
     "Lowest": 0.104808,
     "After Pivot High": 0.177422,
@@ -541,8 +601,8 @@
   },
   {
     "Symbol": "WIFUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.393,
     "Lowest": 0.635,
     "After Pivot High": 1.074,
@@ -552,7 +612,7 @@
   {
     "Symbol": "TOSHIUSDT",
     "Earliest Date": "2024-11-23",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.0009921,
     "Lowest": 0.0003666,
     "After Pivot High": 0.00062,
@@ -562,7 +622,7 @@
   {
     "Symbol": "ZKUSDT",
     "Earliest Date": "2024-06-19",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.08143,
     "Lowest": 0.03666,
     "After Pivot High": 0.06193,
@@ -571,8 +631,8 @@
   },
   {
     "Symbol": "ORDIUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 13.61,
     "Lowest": 6.177,
     "After Pivot High": 10.319,
@@ -580,9 +640,29 @@
     "Rise from Lowest after Pivot (%)": 67.06
   },
   {
+    "Symbol": "WUSDT",
+    "Earliest Date": "2024-04-05",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.11776,
+    "Lowest": 0.0511,
+    "After Pivot High": 0.08528,
+    "Drop from Prev High (%)": -56.61,
+    "Rise from Lowest after Pivot (%)": 66.89
+  },
+  {
+    "Symbol": "TELUSDT",
+    "Earliest Date": "2024-11-24",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.007202,
+    "Lowest": 0.003209,
+    "After Pivot High": 0.005355,
+    "Drop from Prev High (%)": -55.44,
+    "Rise from Lowest after Pivot (%)": 66.87
+  },
+  {
     "Symbol": "PNUTUSDT",
     "Earliest Date": "2024-11-05",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.4878,
     "Lowest": 0.1816,
     "After Pivot High": 0.3018,
@@ -590,19 +670,39 @@
     "Rise from Lowest after Pivot (%)": 66.19
   },
   {
-    "Symbol": "HBARUSDT",
-    "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.22885,
-    "Lowest": 0.12604,
-    "After Pivot High": 0.20937,
-    "Drop from Prev High (%)": -44.92,
-    "Rise from Lowest after Pivot (%)": 66.11
+    "Symbol": "IOTAUSDT",
+    "Earliest Date": "2024-08-25",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.2755,
+    "Lowest": 0.1392,
+    "After Pivot High": 0.2309,
+    "Drop from Prev High (%)": -49.47,
+    "Rise from Lowest after Pivot (%)": 65.88
+  },
+  {
+    "Symbol": "PIXELUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.06619,
+    "Lowest": 0.02713,
+    "After Pivot High": 0.045,
+    "Drop from Prev High (%)": -59.01,
+    "Rise from Lowest after Pivot (%)": 65.87
+  },
+  {
+    "Symbol": "WEMIXUSDT",
+    "Earliest Date": "2021-09-11",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.83,
+    "Lowest": 0.3716,
+    "After Pivot High": 0.6159,
+    "Drop from Prev High (%)": -55.23,
+    "Rise from Lowest after Pivot (%)": 65.74
   },
   {
     "Symbol": "DEXEUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 18.372,
     "Lowest": 4.992,
     "After Pivot High": 8.248,
@@ -610,29 +710,29 @@
     "Rise from Lowest after Pivot (%)": 65.22
   },
   {
-    "Symbol": "BOMEUSDT",
-    "Earliest Date": "2024-03-16",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.003236,
-    "Lowest": 0.001226,
-    "After Pivot High": 0.0020183,
-    "Drop from Prev High (%)": -62.11,
-    "Rise from Lowest after Pivot (%)": 64.62
+    "Symbol": "COWUSDT",
+    "Earliest Date": "2024-11-08",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.4959,
+    "Lowest": 0.2391,
+    "After Pivot High": 0.3939,
+    "Drop from Prev High (%)": -51.78,
+    "Rise from Lowest after Pivot (%)": 64.74
   },
   {
-    "Symbol": "WUSDT",
-    "Earliest Date": "2024-04-05",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.11776,
-    "Lowest": 0.0511,
-    "After Pivot High": 0.08409,
-    "Drop from Prev High (%)": -56.61,
-    "Rise from Lowest after Pivot (%)": 64.56
+    "Symbol": "BOMEUSDT",
+    "Earliest Date": "2024-03-16",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.0032274,
+    "Lowest": 0.0012263,
+    "After Pivot High": 0.0020183,
+    "Drop from Prev High (%)": -62,
+    "Rise from Lowest after Pivot (%)": 64.58
   },
   {
     "Symbol": "MERLUSDT",
     "Earliest Date": "2024-04-21",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.16235,
     "Lowest": 0.07101,
     "After Pivot High": 0.11675,
@@ -642,7 +742,7 @@
   {
     "Symbol": "POPCATUSDT",
     "Earliest Date": "2024-04-20",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.6422,
     "Lowest": 0.2374,
     "After Pivot High": 0.3899,
@@ -652,7 +752,7 @@
   {
     "Symbol": "FORMUSDT",
     "Earliest Date": "2025-03-21",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 3.0616,
     "Lowest": 2.2815,
     "After Pivot High": 3.7464,
@@ -661,8 +761,8 @@
   },
   {
     "Symbol": "DYMUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.5312,
     "Lowest": 0.1947,
     "After Pivot High": 0.3197,
@@ -670,9 +770,19 @@
     "Rise from Lowest after Pivot (%)": 64.2
   },
   {
+    "Symbol": "CVXUSDT",
+    "Earliest Date": "2021-12-25",
+    "Latest Date": "2025-07-13",
+    "Prev High": 3.832,
+    "Lowest": 2.12,
+    "After Pivot High": 3.463,
+    "Drop from Prev High (%)": -44.68,
+    "Rise from Lowest after Pivot (%)": 63.35
+  },
+  {
     "Symbol": "BIOUSDT",
     "Earliest Date": "2025-01-05",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.10247,
     "Lowest": 0.04164,
     "After Pivot High": 0.06799,
@@ -681,8 +791,8 @@
   },
   {
     "Symbol": "RSRUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.010746,
     "Lowest": 0.005189,
     "After Pivot High": 0.008441,
@@ -691,8 +801,8 @@
   },
   {
     "Symbol": "CGPTUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.155564,
     "Lowest": 0.070268,
     "After Pivot High": 0.114102,
@@ -700,29 +810,19 @@
     "Rise from Lowest after Pivot (%)": 62.38
   },
   {
-    "Symbol": "XPRUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.0043162,
-    "Lowest": 0.0025036,
-    "After Pivot High": 0.0040614,
-    "Drop from Prev High (%)": -42,
-    "Rise from Lowest after Pivot (%)": 62.22
-  },
-  {
-    "Symbol": "MORPHOUSDT",
-    "Earliest Date": "2024-11-23",
-    "Latest Date": "2025-07-11",
-    "Prev High": 1.82,
-    "Lowest": 1.0801,
-    "After Pivot High": 1.7419,
-    "Drop from Prev High (%)": -40.65,
-    "Rise from Lowest after Pivot (%)": 61.27
+    "Symbol": "IMXUSDT",
+    "Earliest Date": "2021-11-07",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.8155,
+    "Lowest": 0.3405,
+    "After Pivot High": 0.5516,
+    "Drop from Prev High (%)": -58.25,
+    "Rise from Lowest after Pivot (%)": 62
   },
   {
     "Symbol": "STRKUSDT",
-    "Earliest Date": "2024-02-22",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.1988,
     "Lowest": 0.0962,
     "After Pivot High": 0.1551,
@@ -732,7 +832,7 @@
   {
     "Symbol": "VENOMUSDT",
     "Earliest Date": "2024-03-27",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.20301,
     "Lowest": 0.1565,
     "After Pivot High": 0.2522,
@@ -742,7 +842,7 @@
   {
     "Symbol": "ETHFIUSDT",
     "Earliest Date": "2024-03-20",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.6564,
     "Lowest": 0.7933,
     "After Pivot High": 1.2753,
@@ -750,19 +850,9 @@
     "Rise from Lowest after Pivot (%)": 60.76
   },
   {
-    "Symbol": "PIXELUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.06619,
-    "Lowest": 0.02713,
-    "After Pivot High": 0.0436,
-    "Drop from Prev High (%)": -59.01,
-    "Rise from Lowest after Pivot (%)": 60.71
-  },
-  {
     "Symbol": "XAIUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.10946,
     "Lowest": 0.04247,
     "After Pivot High": 0.06822,
@@ -771,8 +861,8 @@
   },
   {
     "Symbol": "TURBOUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.006584,
     "Lowest": 0.002901,
     "After Pivot High": 0.004659,
@@ -782,7 +872,7 @@
   {
     "Symbol": "AI16ZUSDT",
     "Earliest Date": "2024-12-15",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.4082,
     "Lowest": 0.1264,
     "After Pivot High": 0.2023,
@@ -792,7 +882,7 @@
   {
     "Symbol": "TAIUSDT",
     "Earliest Date": "2024-05-04",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.165,
     "Lowest": 0.06004,
     "After Pivot High": 0.09609,
@@ -800,19 +890,49 @@
     "Rise from Lowest after Pivot (%)": 60.04
   },
   {
+    "Symbol": "STORJUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.3519,
+    "Lowest": 0.2108,
+    "After Pivot High": 0.3372,
+    "Drop from Prev High (%)": -40.1,
+    "Rise from Lowest after Pivot (%)": 59.96
+  },
+  {
     "Symbol": "PEPEUSDT",
-    "Earliest Date": "2023-05-07",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.00001632,
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.00001633,
     "Lowest": 0.0000083,
     "After Pivot High": 0.00001327,
-    "Drop from Prev High (%)": -49.14,
+    "Drop from Prev High (%)": -49.17,
     "Rise from Lowest after Pivot (%)": 59.88
   },
   {
+    "Symbol": "ARKMUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.8408,
+    "Lowest": 0.3649,
+    "After Pivot High": 0.5824,
+    "Drop from Prev High (%)": -56.6,
+    "Rise from Lowest after Pivot (%)": 59.61
+  },
+  {
+    "Symbol": "JASMYUSDT",
+    "Earliest Date": "2021-01-12",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.021392,
+    "Lowest": 0.010251,
+    "After Pivot High": 0.01636,
+    "Drop from Prev High (%)": -52.08,
+    "Rise from Lowest after Pivot (%)": 59.59
+  },
+  {
     "Symbol": "MEMEUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.003267,
     "Lowest": 0.001242,
     "After Pivot High": 0.001979,
@@ -820,9 +940,19 @@
     "Rise from Lowest after Pivot (%)": 59.34
   },
   {
+    "Symbol": "HNTUSDT",
+    "Earliest Date": "2024-08-25",
+    "Latest Date": "2025-07-13",
+    "Prev High": 4.456,
+    "Lowest": 2.072,
+    "After Pivot High": 3.3,
+    "Drop from Prev High (%)": -53.5,
+    "Rise from Lowest after Pivot (%)": 59.27
+  },
+  {
     "Symbol": "SATSUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 7.992e-8,
     "Lowest": 3.169e-8,
     "After Pivot High": 5.043e-8,
@@ -830,29 +960,59 @@
     "Rise from Lowest after Pivot (%)": 59.14
   },
   {
-    "Symbol": "COWUSDT",
-    "Earliest Date": "2024-11-08",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.4959,
-    "Lowest": 0.2391,
-    "After Pivot High": 0.3767,
-    "Drop from Prev High (%)": -51.78,
-    "Rise from Lowest after Pivot (%)": 57.55
+    "Symbol": "JUPUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.6724,
+    "Lowest": 0.3258,
+    "After Pivot High": 0.5149,
+    "Drop from Prev High (%)": -51.55,
+    "Rise from Lowest after Pivot (%)": 58.04
+  },
+  {
+    "Symbol": "AGIUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.07976,
+    "Lowest": 0.03797,
+    "After Pivot High": 0.06,
+    "Drop from Prev High (%)": -52.39,
+    "Rise from Lowest after Pivot (%)": 58.02
+  },
+  {
+    "Symbol": "HYPEUSDT",
+    "Earliest Date": "2025-03-26",
+    "Latest Date": "2025-07-13",
+    "Prev High": 45.9,
+    "Lowest": 30.95,
+    "After Pivot High": 48.89,
+    "Drop from Prev High (%)": -32.57,
+    "Rise from Lowest after Pivot (%)": 57.96
+  },
+  {
+    "Symbol": "SANDUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.39,
+    "Lowest": 0.219,
+    "After Pivot High": 0.345,
+    "Drop from Prev High (%)": -43.85,
+    "Rise from Lowest after Pivot (%)": 57.53
   },
   {
     "Symbol": "TIAUSDT",
-    "Earliest Date": "2023-11-02",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 3.402,
     "Lowest": 1.31,
-    "After Pivot High": 2.061,
+    "After Pivot High": 2.062,
     "Drop from Prev High (%)": -61.49,
-    "Rise from Lowest after Pivot (%)": 57.33
+    "Rise from Lowest after Pivot (%)": 57.4
   },
   {
     "Symbol": "PEAQUSDT",
     "Earliest Date": "2024-11-14",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.1977,
     "Lowest": 0.0588,
     "After Pivot High": 0.0925,
@@ -861,8 +1021,8 @@
   },
   {
     "Symbol": "MANTAUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.348,
     "Lowest": 0.1556,
     "After Pivot High": 0.2446,
@@ -872,7 +1032,7 @@
   {
     "Symbol": "NEIROUSDT",
     "Earliest Date": "2024-07-30",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.0039319,
     "Lowest": 0.0008506,
     "After Pivot High": 0.0013366,
@@ -881,8 +1041,8 @@
   },
   {
     "Symbol": "FLUXUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-12-05",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.3698,
     "Lowest": 0.1652,
     "After Pivot High": 0.2591,
@@ -890,19 +1050,9 @@
     "Rise from Lowest after Pivot (%)": 56.84
   },
   {
-    "Symbol": "JUPUSDT",
-    "Earliest Date": "2024-02-02",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.6572,
-    "Lowest": 0.3258,
-    "After Pivot High": 0.511,
-    "Drop from Prev High (%)": -50.43,
-    "Rise from Lowest after Pivot (%)": 56.84
-  },
-  {
     "Symbol": "DOGSUSDT",
     "Earliest Date": "2024-08-28",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.0002531,
     "Lowest": 0.0001048,
     "After Pivot High": 0.000164,
@@ -910,39 +1060,39 @@
     "Rise from Lowest after Pivot (%)": 56.49
   },
   {
-    "Symbol": "TELUSDT",
-    "Earliest Date": "2024-11-24",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.007202,
-    "Lowest": 0.003209,
-    "After Pivot High": 0.005018,
-    "Drop from Prev High (%)": -55.44,
+    "Symbol": "WOOUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.1037,
+    "Lowest": 0.05409,
+    "After Pivot High": 0.08458,
+    "Drop from Prev High (%)": -47.84,
     "Rise from Lowest after Pivot (%)": 56.37
   },
   {
-    "Symbol": "SUIUSDT",
-    "Earliest Date": "2023-05-05",
-    "Latest Date": "2025-07-11",
-    "Prev High": 4.2989,
-    "Lowest": 2.2937,
-    "After Pivot High": 3.5842,
-    "Drop from Prev High (%)": -46.64,
-    "Rise from Lowest after Pivot (%)": 56.26
+    "Symbol": "BEAMUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.045,
+    "Lowest": 0.027,
+    "After Pivot High": 0.0422,
+    "Drop from Prev High (%)": -40,
+    "Rise from Lowest after Pivot (%)": 56.3
   },
   {
-    "Symbol": "ALGOUSDT",
-    "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.2595,
-    "Lowest": 0.1518,
-    "After Pivot High": 0.237,
-    "Drop from Prev High (%)": -41.5,
-    "Rise from Lowest after Pivot (%)": 56.13
+    "Symbol": "SUIUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 4.3,
+    "Lowest": 2.2936,
+    "After Pivot High": 3.5842,
+    "Drop from Prev High (%)": -46.66,
+    "Rise from Lowest after Pivot (%)": 56.27
   },
   {
     "Symbol": "PLUMEUSDT",
     "Earliest Date": "2025-01-23",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.21,
     "Lowest": 0.07571,
     "After Pivot High": 0.11813,
@@ -952,27 +1102,17 @@
   {
     "Symbol": "XRPUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 2.6549,
-    "Lowest": 1.9083,
+    "Latest Date": "2025-07-13",
+    "Prev High": 2.6561,
+    "Lowest": 1.9081,
     "After Pivot High": 2.974,
-    "Drop from Prev High (%)": -28.12,
-    "Rise from Lowest after Pivot (%)": 55.85
-  },
-  {
-    "Symbol": "CVXUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 3.832,
-    "Lowest": 2.12,
-    "After Pivot High": 3.303,
-    "Drop from Prev High (%)": -44.68,
-    "Rise from Lowest after Pivot (%)": 55.8
+    "Drop from Prev High (%)": -28.16,
+    "Rise from Lowest after Pivot (%)": 55.86
   },
   {
     "Symbol": "APUUSDT",
     "Earliest Date": "2024-04-08",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.000344,
     "Lowest": 0.0001432,
     "After Pivot High": 0.000223,
@@ -980,19 +1120,9 @@
     "Rise from Lowest after Pivot (%)": 55.73
   },
   {
-    "Symbol": "ARKMUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.8408,
-    "Lowest": 0.3649,
-    "After Pivot High": 0.567,
-    "Drop from Prev High (%)": -56.6,
-    "Rise from Lowest after Pivot (%)": 55.39
-  },
-  {
     "Symbol": "PEOPLEUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-11-28",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.03932,
     "Lowest": 0.01486,
     "After Pivot High": 0.02305,
@@ -1001,8 +1131,8 @@
   },
   {
     "Symbol": "ROSEUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.04468,
     "Lowest": 0.01969,
     "After Pivot High": 0.03054,
@@ -1010,9 +1140,19 @@
     "Rise from Lowest after Pivot (%)": 55.1
   },
   {
+    "Symbol": "REDUSDT",
+    "Earliest Date": "2025-03-08",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.5265,
+    "Lowest": 0.2315,
+    "After Pivot High": 0.359,
+    "Drop from Prev High (%)": -56.03,
+    "Rise from Lowest after Pivot (%)": 55.08
+  },
+  {
     "Symbol": "DYDXUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-09-10",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.7621,
     "Lowest": 0.4138,
     "After Pivot High": 0.6409,
@@ -1020,19 +1160,19 @@
     "Rise from Lowest after Pivot (%)": 54.88
   },
   {
-    "Symbol": "IMXUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.8155,
-    "Lowest": 0.3405,
-    "After Pivot High": 0.527,
-    "Drop from Prev High (%)": -58.25,
-    "Rise from Lowest after Pivot (%)": 54.77
+    "Symbol": "ONEUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.016993,
+    "Lowest": 0.008033,
+    "After Pivot High": 0.01241,
+    "Drop from Prev High (%)": -52.73,
+    "Rise from Lowest after Pivot (%)": 54.49
   },
   {
     "Symbol": "CETUSUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.25634,
     "Lowest": 0.07681,
     "After Pivot High": 0.11849,
@@ -1040,19 +1180,19 @@
     "Rise from Lowest after Pivot (%)": 54.26
   },
   {
-    "Symbol": "ONEUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.016993,
-    "Lowest": 0.008033,
-    "After Pivot High": 0.012343,
-    "Drop from Prev High (%)": -52.73,
-    "Rise from Lowest after Pivot (%)": 53.65
+    "Symbol": "PYTHUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.2108,
+    "Lowest": 0.0806,
+    "After Pivot High": 0.1242,
+    "Drop from Prev High (%)": -61.76,
+    "Rise from Lowest after Pivot (%)": 54.09
   },
   {
     "Symbol": "BGSCUSDT",
     "Earliest Date": "2024-12-10",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.01231,
     "Lowest": 0.005303,
     "After Pivot High": 0.008145,
@@ -1060,39 +1200,19 @@
     "Rise from Lowest after Pivot (%)": 53.59
   },
   {
-    "Symbol": "OPUSDT",
-    "Earliest Date": "2022-06-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.954,
-    "Lowest": 0.457,
-    "After Pivot High": 0.701,
-    "Drop from Prev High (%)": -52.1,
-    "Rise from Lowest after Pivot (%)": 53.39
-  },
-  {
-    "Symbol": "REDUSDT",
-    "Earliest Date": "2025-03-08",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.5265,
-    "Lowest": 0.2315,
-    "After Pivot High": 0.355,
-    "Drop from Prev High (%)": -56.03,
-    "Rise from Lowest after Pivot (%)": 53.35
-  },
-  {
-    "Symbol": "UNIUSDT",
-    "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 8.677,
-    "Lowest": 5.919,
-    "After Pivot High": 9.072,
-    "Drop from Prev High (%)": -31.79,
-    "Rise from Lowest after Pivot (%)": 53.27
+    "Symbol": "STXUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 1.075,
+    "Lowest": 0.521,
+    "After Pivot High": 0.8,
+    "Drop from Prev High (%)": -51.53,
+    "Rise from Lowest after Pivot (%)": 53.55
   },
   {
     "Symbol": "KASUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.131119,
     "Lowest": 0.06,
     "After Pivot High": 0.0919,
@@ -1100,9 +1220,39 @@
     "Rise from Lowest after Pivot (%)": 53.17
   },
   {
+    "Symbol": "OPUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.953,
+    "Lowest": 0.458,
+    "After Pivot High": 0.701,
+    "Drop from Prev High (%)": -51.94,
+    "Rise from Lowest after Pivot (%)": 53.06
+  },
+  {
+    "Symbol": "UNIUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 8.673,
+    "Lowest": 5.928,
+    "After Pivot High": 9.072,
+    "Drop from Prev High (%)": -31.65,
+    "Rise from Lowest after Pivot (%)": 53.04
+  },
+  {
+    "Symbol": "BIGTIMEUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.0967,
+    "Lowest": 0.04307,
+    "After Pivot High": 0.06588,
+    "Drop from Prev High (%)": -55.46,
+    "Rise from Lowest after Pivot (%)": 52.96
+  },
+  {
     "Symbol": "AIXBTUSDT",
     "Earliest Date": "2024-12-05",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.2558,
     "Lowest": 0.1091,
     "After Pivot High": 0.1666,
@@ -1110,19 +1260,9 @@
     "Rise from Lowest after Pivot (%)": 52.7
   },
   {
-    "Symbol": "ADAUSDT",
-    "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.8643,
-    "Lowest": 0.51,
-    "After Pivot High": 0.777,
-    "Drop from Prev High (%)": -40.99,
-    "Rise from Lowest after Pivot (%)": 52.35
-  },
-  {
     "Symbol": "ERGUSDT",
     "Earliest Date": "2024-05-01",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.0425,
     "Lowest": 0.6893,
     "After Pivot High": 1.05,
@@ -1130,19 +1270,29 @@
     "Rise from Lowest after Pivot (%)": 52.33
   },
   {
-    "Symbol": "CATUSDT",
-    "Earliest Date": "2024-08-24",
-    "Latest Date": "2025-07-10",
-    "Prev High": 0.000013377,
-    "Lowest": 0.000005165,
-    "After Pivot High": 0.00000786,
-    "Drop from Prev High (%)": -61.39,
-    "Rise from Lowest after Pivot (%)": 52.18
+    "Symbol": "ADAUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.8643,
+    "Lowest": 0.5101,
+    "After Pivot High": 0.777,
+    "Drop from Prev High (%)": -40.98,
+    "Rise from Lowest after Pivot (%)": 52.32
+  },
+  {
+    "Symbol": "SHXUSDT",
+    "Earliest Date": "2024-03-31",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.016717,
+    "Lowest": 0.009943,
+    "After Pivot High": 0.01513,
+    "Drop from Prev High (%)": -40.52,
+    "Rise from Lowest after Pivot (%)": 52.17
   },
   {
     "Symbol": "ACXUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.28261,
     "Lowest": 0.12289,
     "After Pivot High": 0.18694,
@@ -1150,19 +1300,29 @@
     "Rise from Lowest after Pivot (%)": 52.12
   },
   {
+    "Symbol": "MANAUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.4044,
+    "Lowest": 0.2226,
+    "After Pivot High": 0.3386,
+    "Drop from Prev High (%)": -44.96,
+    "Rise from Lowest after Pivot (%)": 52.11
+  },
+  {
     "Symbol": "SUSDT",
     "Earliest Date": "2025-01-09",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.625,
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.6246,
     "Lowest": 0.25,
     "After Pivot High": 0.3802,
-    "Drop from Prev High (%)": -60,
+    "Drop from Prev High (%)": -59.97,
     "Rise from Lowest after Pivot (%)": 52.08
   },
   {
     "Symbol": "GALAUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-06-09",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.02365,
     "Lowest": 0.01178,
     "After Pivot High": 0.01791,
@@ -1171,8 +1331,8 @@
   },
   {
     "Symbol": "ZANOUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 12.89,
     "Lowest": 6.94,
     "After Pivot High": 10.55,
@@ -1180,19 +1340,19 @@
     "Rise from Lowest after Pivot (%)": 52.02
   },
   {
-    "Symbol": "WOOUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.1037,
-    "Lowest": 0.05409,
-    "After Pivot High": 0.08218,
-    "Drop from Prev High (%)": -47.84,
-    "Rise from Lowest after Pivot (%)": 51.93
+    "Symbol": "GFIUSDT",
+    "Earliest Date": "2024-04-04",
+    "Latest Date": "2025-07-13",
+    "Prev High": 1.2376,
+    "Lowest": 0.5415,
+    "After Pivot High": 0.823,
+    "Drop from Prev High (%)": -56.25,
+    "Rise from Lowest after Pivot (%)": 51.99
   },
   {
     "Symbol": "ZROUSDT",
     "Earliest Date": "2024-06-22",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 3.33,
     "Lowest": 1.493,
     "After Pivot High": 2.264,
@@ -1200,39 +1360,49 @@
     "Rise from Lowest after Pivot (%)": 51.64
   },
   {
-    "Symbol": "HYPEUSDT",
-    "Earliest Date": "2025-03-26",
-    "Latest Date": "2025-07-11",
-    "Prev High": 45.9,
-    "Lowest": 30.95,
-    "After Pivot High": 46.93,
-    "Drop from Prev High (%)": -32.57,
-    "Rise from Lowest after Pivot (%)": 51.63
+    "Symbol": "ORCAUSDT",
+    "Earliest Date": "2024-12-08",
+    "Latest Date": "2025-07-13",
+    "Prev High": 3.858,
+    "Lowest": 1.701,
+    "After Pivot High": 2.576,
+    "Drop from Prev High (%)": -55.91,
+    "Rise from Lowest after Pivot (%)": 51.44
+  },
+  {
+    "Symbol": "ZETAUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.3141,
+    "Lowest": 0.151,
+    "After Pivot High": 0.2286,
+    "Drop from Prev High (%)": -51.93,
+    "Rise from Lowest after Pivot (%)": 51.39
   },
   {
     "Symbol": "EIGENUSDT",
     "Earliest Date": "2024-10-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 1.802,
-    "Lowest": 0.955,
+    "Latest Date": "2025-07-13",
+    "Prev High": 1.8021,
+    "Lowest": 0.9554,
     "After Pivot High": 1.4449,
-    "Drop from Prev High (%)": -47,
-    "Rise from Lowest after Pivot (%)": 51.3
+    "Drop from Prev High (%)": -46.98,
+    "Rise from Lowest after Pivot (%)": 51.24
   },
   {
     "Symbol": "ONDOUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 1.144,
-    "Lowest": 0.6214,
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 1.13544,
+    "Lowest": 0.62151,
     "After Pivot High": 0.93805,
-    "Drop from Prev High (%)": -45.68,
-    "Rise from Lowest after Pivot (%)": 50.96
+    "Drop from Prev High (%)": -45.26,
+    "Rise from Lowest after Pivot (%)": 50.93
   },
   {
     "Symbol": "IOUSDT",
     "Earliest Date": "2024-06-13",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.21,
     "Lowest": 0.573,
     "After Pivot High": 0.864,
@@ -1240,19 +1410,19 @@
     "Rise from Lowest after Pivot (%)": 50.79
   },
   {
-    "Symbol": "PYTHUSDT",
-    "Earliest Date": "2024-02-04",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.2108,
-    "Lowest": 0.0806,
-    "After Pivot High": 0.1214,
-    "Drop from Prev High (%)": -61.76,
+    "Symbol": "ARUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 9,
+    "Lowest": 4.5,
+    "After Pivot High": 6.778,
+    "Drop from Prev High (%)": -50,
     "Rise from Lowest after Pivot (%)": 50.62
   },
   {
     "Symbol": "SUSHIUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.8923,
     "Lowest": 0.5032,
     "After Pivot High": 0.7568,
@@ -1261,8 +1431,8 @@
   },
   {
     "Symbol": "BANANAUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 26.73,
     "Lowest": 13.75,
     "After Pivot High": 20.61,
@@ -1271,8 +1441,8 @@
   },
   {
     "Symbol": "SSVUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-10-21",
+    "Latest Date": "2025-07-13",
     "Prev High": 11.978,
     "Lowest": 6.404,
     "After Pivot High": 9.594,
@@ -1280,39 +1450,39 @@
     "Rise from Lowest after Pivot (%)": 49.81
   },
   {
-    "Symbol": "STXUSDT",
-    "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 1.074,
-    "Lowest": 0.522,
-    "After Pivot High": 0.782,
-    "Drop from Prev High (%)": -51.4,
-    "Rise from Lowest after Pivot (%)": 49.81
+    "Symbol": "RENDERUSDT",
+    "Earliest Date": "2024-07-28",
+    "Latest Date": "2025-07-13",
+    "Prev High": 5.521,
+    "Lowest": 2.604,
+    "After Pivot High": 3.898,
+    "Drop from Prev High (%)": -52.83,
+    "Rise from Lowest after Pivot (%)": 49.69
+  },
+  {
+    "Symbol": "UXLINKUSDT",
+    "Earliest Date": "2024-07-20",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.6795,
+    "Lowest": 0.2717,
+    "After Pivot High": 0.4067,
+    "Drop from Prev High (%)": -60.01,
+    "Rise from Lowest after Pivot (%)": 49.69
   },
   {
     "Symbol": "DOGEUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.2597,
-    "Lowest": 0.1427,
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.25966,
+    "Lowest": 0.14277,
     "After Pivot High": 0.21364,
-    "Drop from Prev High (%)": -45.05,
-    "Rise from Lowest after Pivot (%)": 49.71
-  },
-  {
-    "Symbol": "RENDERUSDT",
-    "Earliest Date": "2024-07-28",
-    "Latest Date": "2025-07-11",
-    "Prev High": 5.522,
-    "Lowest": 2.604,
-    "After Pivot High": 3.898,
-    "Drop from Prev High (%)": -52.84,
-    "Rise from Lowest after Pivot (%)": 49.69
+    "Drop from Prev High (%)": -45.02,
+    "Rise from Lowest after Pivot (%)": 49.64
   },
   {
     "Symbol": "LUNAUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.2492,
     "Lowest": 0.1256,
     "After Pivot High": 0.1879,
@@ -1320,19 +1490,9 @@
     "Rise from Lowest after Pivot (%)": 49.6
   },
   {
-    "Symbol": "JASMYUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.021392,
-    "Lowest": 0.010251,
-    "After Pivot High": 0.015333,
-    "Drop from Prev High (%)": -52.08,
-    "Rise from Lowest after Pivot (%)": 49.58
-  },
-  {
     "Symbol": "XCNUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2022-03-17",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.028,
     "Lowest": 0.0123693,
     "After Pivot High": 0.0185,
@@ -1340,9 +1500,19 @@
     "Rise from Lowest after Pivot (%)": 49.56
   },
   {
+    "Symbol": "BLURUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.13054,
+    "Lowest": 0.06134,
+    "After Pivot High": 0.09168,
+    "Drop from Prev High (%)": -53.01,
+    "Rise from Lowest after Pivot (%)": 49.46
+  },
+  {
     "Symbol": "MEWUSDT",
     "Earliest Date": "2024-04-06",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.004873,
     "Lowest": 0.00218,
     "After Pivot High": 0.003256,
@@ -1352,17 +1522,17 @@
   {
     "Symbol": "AAVEUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 325.41,
-    "Lowest": 213,
+    "Latest Date": "2025-07-13",
+    "Prev High": 325,
+    "Lowest": 213.05,
     "After Pivot High": 318.09,
-    "Drop from Prev High (%)": -34.54,
-    "Rise from Lowest after Pivot (%)": 49.34
+    "Drop from Prev High (%)": -34.45,
+    "Rise from Lowest after Pivot (%)": 49.3
   },
   {
     "Symbol": "CHRUSDT",
     "Earliest Date": "2024-12-07",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.1325,
     "Lowest": 0.06513,
     "After Pivot High": 0.09712,
@@ -1370,19 +1540,9 @@
     "Rise from Lowest after Pivot (%)": 49.12
   },
   {
-    "Symbol": "VIRTUALUSDT",
-    "Earliest Date": "2024-05-17",
-    "Latest Date": "2025-07-11",
-    "Prev High": 2.589,
-    "Lowest": 1.2608,
-    "After Pivot High": 1.8799,
-    "Drop from Prev High (%)": -51.3,
-    "Rise from Lowest after Pivot (%)": 49.1
-  },
-  {
     "Symbol": "NILUSDT",
     "Earliest Date": "2025-03-26",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.6109,
     "Lowest": 0.2412,
     "After Pivot High": 0.359,
@@ -1390,19 +1550,19 @@
     "Rise from Lowest after Pivot (%)": 48.84
   },
   {
-    "Symbol": "HNTUSDT",
-    "Earliest Date": "2024-08-25",
-    "Latest Date": "2025-07-11",
-    "Prev High": 4.456,
-    "Lowest": 2.072,
-    "After Pivot High": 3.083,
-    "Drop from Prev High (%)": -53.5,
-    "Rise from Lowest after Pivot (%)": 48.79
+    "Symbol": "VIRTUALUSDT",
+    "Earliest Date": "2024-05-17",
+    "Latest Date": "2025-07-13",
+    "Prev High": 2.5868,
+    "Lowest": 1.263,
+    "After Pivot High": 1.8799,
+    "Drop from Prev High (%)": -51.18,
+    "Rise from Lowest after Pivot (%)": 48.84
   },
   {
     "Symbol": "CELRUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.01241,
     "Lowest": 0.006084,
     "After Pivot High": 0.009029,
@@ -1412,17 +1572,27 @@
   {
     "Symbol": "SYRUPUSDT",
     "Earliest Date": "2024-11-27",
-    "Latest Date": "2025-07-11",
-    "Prev High": 1,
-    "Lowest": 0.3933,
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.55427,
+    "Lowest": 0.39348,
     "After Pivot High": 0.58344,
-    "Drop from Prev High (%)": -60.67,
-    "Rise from Lowest after Pivot (%)": 48.34
+    "Drop from Prev High (%)": -29.01,
+    "Rise from Lowest after Pivot (%)": 48.28
+  },
+  {
+    "Symbol": "HIVEUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.2982,
+    "Lowest": 0.1756,
+    "After Pivot High": 0.2603,
+    "Drop from Prev High (%)": -41.11,
+    "Rise from Lowest after Pivot (%)": 48.23
   },
   {
     "Symbol": "NTRNUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.1711,
     "Lowest": 0.0747,
     "After Pivot High": 0.11068,
@@ -1431,8 +1601,8 @@
   },
   {
     "Symbol": "JOEUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-11-25",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.2435,
     "Lowest": 0.1238,
     "After Pivot High": 0.1832,
@@ -1440,49 +1610,59 @@
     "Rise from Lowest after Pivot (%)": 47.98
   },
   {
+    "Symbol": "SKLUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.029,
+    "Lowest": 0.0158,
+    "After Pivot High": 0.02338,
+    "Drop from Prev High (%)": -45.52,
+    "Rise from Lowest after Pivot (%)": 47.97
+  },
+  {
     "Symbol": "WLDUSDT",
-    "Earliest Date": "2023-07-26",
-    "Latest Date": "2025-07-11",
-    "Prev High": 1.648,
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 1.649,
     "Lowest": 0.771,
     "After Pivot High": 1.14,
-    "Drop from Prev High (%)": -53.22,
+    "Drop from Prev High (%)": -53.24,
     "Rise from Lowest after Pivot (%)": 47.86
   },
   {
     "Symbol": "MOVEUSDT",
     "Earliest Date": "2024-12-11",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.427,
-    "Lowest": 0.111,
+    "Lowest": 0.1109,
     "After Pivot High": 0.1635,
-    "Drop from Prev High (%)": -74,
-    "Rise from Lowest after Pivot (%)": 47.3
+    "Drop from Prev High (%)": -74.03,
+    "Rise from Lowest after Pivot (%)": 47.43
   },
   {
     "Symbol": "NEARUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 3.383,
+    "Latest Date": "2025-07-13",
+    "Prev High": 3.384,
     "Lowest": 1.793,
     "After Pivot High": 2.641,
-    "Drop from Prev High (%)": -47,
+    "Drop from Prev High (%)": -47.02,
     "Rise from Lowest after Pivot (%)": 47.3
   },
   {
-    "Symbol": "ARUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 9,
-    "Lowest": 4.5,
-    "After Pivot High": 6.623,
-    "Drop from Prev High (%)": -50,
-    "Rise from Lowest after Pivot (%)": 47.18
+    "Symbol": "RLCUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 1.445,
+    "Lowest": 0.775,
+    "After Pivot High": 1.1406,
+    "Drop from Prev High (%)": -46.37,
+    "Rise from Lowest after Pivot (%)": 47.17
   },
   {
     "Symbol": "SQDUSDT",
     "Earliest Date": "2024-05-19",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.29211,
     "Lowest": 0.12483,
     "After Pivot High": 0.18348,
@@ -1491,18 +1671,18 @@
   },
   {
     "Symbol": "POLUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.2766,
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.2767,
     "Lowest": 0.1636,
     "After Pivot High": 0.2404,
-    "Drop from Prev High (%)": -40.85,
+    "Drop from Prev High (%)": -40.87,
     "Rise from Lowest after Pivot (%)": 46.94
   },
   {
     "Symbol": "INJUSDT",
-    "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 15.48,
     "Lowest": 8.95,
     "After Pivot High": 13.15,
@@ -1512,7 +1692,7 @@
   {
     "Symbol": "PAALUSDT",
     "Earliest Date": "2024-09-17",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.18338,
     "Lowest": 0.08023,
     "After Pivot High": 0.11776,
@@ -1521,18 +1701,28 @@
   },
   {
     "Symbol": "GRTUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.13117,
     "Lowest": 0.06933,
-    "After Pivot High": 0.10148,
+    "After Pivot High": 0.10159,
     "Drop from Prev High (%)": -47.14,
-    "Rise from Lowest after Pivot (%)": 46.37
+    "Rise from Lowest after Pivot (%)": 46.53
+  },
+  {
+    "Symbol": "BATUSDT",
+    "Earliest Date": "2021-01-25",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.1731,
+    "Lowest": 0.1082,
+    "After Pivot High": 0.1585,
+    "Drop from Prev High (%)": -37.49,
+    "Rise from Lowest after Pivot (%)": 46.49
   },
   {
     "Symbol": "METISUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-12-20",
+    "Latest Date": "2025-07-13",
     "Prev High": 25.52,
     "Lowest": 12.64,
     "After Pivot High": 18.5,
@@ -1540,9 +1730,19 @@
     "Rise from Lowest after Pivot (%)": 46.36
   },
   {
+    "Symbol": "KDAUSDT",
+    "Earliest Date": "2024-07-24",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.7236,
+    "Lowest": 0.3244,
+    "After Pivot High": 0.474,
+    "Drop from Prev High (%)": -55.17,
+    "Rise from Lowest after Pivot (%)": 46.12
+  },
+  {
     "Symbol": "XCHUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-04-29",
+    "Latest Date": "2025-07-13",
     "Prev High": 15.545,
     "Lowest": 8.9,
     "After Pivot High": 13,
@@ -1551,8 +1751,8 @@
   },
   {
     "Symbol": "POKTUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2022-01-14",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.087745,
     "Lowest": 0.033853,
     "After Pivot High": 0.049439,
@@ -1560,29 +1760,19 @@
     "Rise from Lowest after Pivot (%)": 46.04
   },
   {
-    "Symbol": "GFIUSDT",
-    "Earliest Date": "2024-04-04",
-    "Latest Date": "2025-07-11",
-    "Prev High": 1.2376,
-    "Lowest": 0.5415,
-    "After Pivot High": 0.79,
-    "Drop from Prev High (%)": -56.25,
-    "Rise from Lowest after Pivot (%)": 45.89
-  },
-  {
-    "Symbol": "KDAUSDT",
-    "Earliest Date": "2024-07-24",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.7236,
-    "Lowest": 0.3244,
-    "After Pivot High": 0.4727,
-    "Drop from Prev High (%)": -55.17,
-    "Rise from Lowest after Pivot (%)": 45.72
+    "Symbol": "LINKUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 17.97,
+    "Lowest": 10.93,
+    "After Pivot High": 15.95,
+    "Drop from Prev High (%)": -39.18,
+    "Rise from Lowest after Pivot (%)": 45.93
   },
   {
     "Symbol": "API3USDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.1597,
     "Lowest": 0.5244,
     "After Pivot High": 0.7636,
@@ -1590,9 +1780,29 @@
     "Rise from Lowest after Pivot (%)": 45.61
   },
   {
+    "Symbol": "ENJUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.1195,
+    "Lowest": 0.05507,
+    "After Pivot High": 0.08011,
+    "Drop from Prev High (%)": -53.92,
+    "Rise from Lowest after Pivot (%)": 45.47
+  },
+  {
+    "Symbol": "GIGAUSDT",
+    "Earliest Date": "2024-07-24",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.03295,
+    "Lowest": 0.01485,
+    "After Pivot High": 0.0216,
+    "Drop from Prev High (%)": -54.93,
+    "Rise from Lowest after Pivot (%)": 45.45
+  },
+  {
     "Symbol": "YGGUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-07-30",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.2552,
     "Lowest": 0.1253,
     "After Pivot High": 0.1822,
@@ -1600,9 +1810,19 @@
     "Rise from Lowest after Pivot (%)": 45.41
   },
   {
+    "Symbol": "VVVUSDT",
+    "Earliest Date": "2025-01-30",
+    "Latest Date": "2025-07-13",
+    "Prev High": 5.338,
+    "Lowest": 2.321,
+    "After Pivot High": 3.374,
+    "Drop from Prev High (%)": -56.52,
+    "Rise from Lowest after Pivot (%)": 45.37
+  },
+  {
     "Symbol": "CKBUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.006584,
     "Lowest": 0.002954,
     "After Pivot High": 0.004289,
@@ -1610,29 +1830,49 @@
     "Rise from Lowest after Pivot (%)": 45.19
   },
   {
-    "Symbol": "LINKUSDT",
-    "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 17.98,
-    "Lowest": 10.94,
-    "After Pivot High": 15.88,
-    "Drop from Prev High (%)": -39.15,
-    "Rise from Lowest after Pivot (%)": 45.16
+    "Symbol": "OMIUSDT",
+    "Earliest Date": "2024-04-06",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.0002949,
+    "Lowest": 0.000178,
+    "After Pivot High": 0.0002584,
+    "Drop from Prev High (%)": -39.64,
+    "Rise from Lowest after Pivot (%)": 45.17
   },
   {
-    "Symbol": "AGIUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.07976,
-    "Lowest": 0.03797,
-    "After Pivot High": 0.05505,
-    "Drop from Prev High (%)": -52.39,
-    "Rise from Lowest after Pivot (%)": 44.98
+    "Symbol": "MOVRUSDT",
+    "Earliest Date": "2021-08-29",
+    "Latest Date": "2025-07-13",
+    "Prev High": 8.542,
+    "Lowest": 4.633,
+    "After Pivot High": 6.723,
+    "Drop from Prev High (%)": -45.76,
+    "Rise from Lowest after Pivot (%)": 45.11
+  },
+  {
+    "Symbol": "CROUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.11024,
+    "Lowest": 0.07733,
+    "After Pivot High": 0.11219,
+    "Drop from Prev High (%)": -29.85,
+    "Rise from Lowest after Pivot (%)": 45.08
+  },
+  {
+    "Symbol": "VELOUSDT",
+    "Earliest Date": "2021-03-13",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.0164,
+    "Lowest": 0.010984,
+    "After Pivot High": 0.015926,
+    "Drop from Prev High (%)": -33.02,
+    "Rise from Lowest after Pivot (%)": 44.99
   },
   {
     "Symbol": "BICOUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-12-04",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.1543,
     "Lowest": 0.07687,
     "After Pivot High": 0.11142,
@@ -1641,8 +1881,8 @@
   },
   {
     "Symbol": "BABYDOGEUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-12-07",
+    "Latest Date": "2025-07-13",
     "Prev High": 2.2e-9,
     "Lowest": 9.734e-10,
     "After Pivot High": 1.4097e-9,
@@ -1650,9 +1890,19 @@
     "Rise from Lowest after Pivot (%)": 44.82
   },
   {
+    "Symbol": "CTCUSDT",
+    "Earliest Date": "2021-12-31",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.7708,
+    "Lowest": 0.5081,
+    "After Pivot High": 0.7347,
+    "Drop from Prev High (%)": -34.08,
+    "Rise from Lowest after Pivot (%)": 44.6
+  },
+  {
     "Symbol": "NOTUSDT",
     "Earliest Date": "2024-05-18",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.003579,
     "Lowest": 0.001601,
     "After Pivot High": 0.002314,
@@ -1661,8 +1911,8 @@
   },
   {
     "Symbol": "IOSTUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.0049,
     "Lowest": 0.002792,
     "After Pivot High": 0.004035,
@@ -1670,9 +1920,19 @@
     "Rise from Lowest after Pivot (%)": 44.52
   },
   {
+    "Symbol": "CELOUSDT",
+    "Earliest Date": "2022-03-17",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.4617,
+    "Lowest": 0.2364,
+    "After Pivot High": 0.3411,
+    "Drop from Prev High (%)": -48.8,
+    "Rise from Lowest after Pivot (%)": 44.29
+  },
+  {
     "Symbol": "ETHWUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 2.3,
     "Lowest": 1.175,
     "After Pivot High": 1.694,
@@ -1680,69 +1940,39 @@
     "Rise from Lowest after Pivot (%)": 44.17
   },
   {
-    "Symbol": "ENJUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.1195,
-    "Lowest": 0.05507,
-    "After Pivot High": 0.07938,
-    "Drop from Prev High (%)": -53.92,
-    "Rise from Lowest after Pivot (%)": 44.14
-  },
-  {
     "Symbol": "ETHUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 2879.22,
-    "Lowest": 2111.89,
+    "Latest Date": "2025-07-13",
+    "Prev High": 2879.19,
+    "Lowest": 2112.78,
     "After Pivot High": 3040,
-    "Drop from Prev High (%)": -26.65,
-    "Rise from Lowest after Pivot (%)": 43.95
+    "Drop from Prev High (%)": -26.62,
+    "Rise from Lowest after Pivot (%)": 43.89
   },
   {
-    "Symbol": "UXLINKUSDT",
-    "Earliest Date": "2024-07-20",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.6795,
-    "Lowest": 0.2717,
-    "After Pivot High": 0.3895,
-    "Drop from Prev High (%)": -60.01,
-    "Rise from Lowest after Pivot (%)": 43.36
-  },
-  {
-    "Symbol": "IOTAUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.2755,
-    "Lowest": 0.1392,
-    "After Pivot High": 0.1994,
-    "Drop from Prev High (%)": -49.47,
-    "Rise from Lowest after Pivot (%)": 43.25
+    "Symbol": "SNTUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.0628,
+    "Lowest": 0.02526,
+    "After Pivot High": 0.03631,
+    "Drop from Prev High (%)": -59.78,
+    "Rise from Lowest after Pivot (%)": 43.75
   },
   {
     "Symbol": "COOKIEUSDT",
     "Earliest Date": "2024-06-15",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.36815,
     "Lowest": 0.14608,
-    "After Pivot High": 0.20923,
+    "After Pivot High": 0.20947,
     "Drop from Prev High (%)": -60.32,
-    "Rise from Lowest after Pivot (%)": 43.23
-  },
-  {
-    "Symbol": "MANAUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.4044,
-    "Lowest": 0.2226,
-    "After Pivot High": 0.3187,
-    "Drop from Prev High (%)": -44.96,
-    "Rise from Lowest after Pivot (%)": 43.17
+    "Rise from Lowest after Pivot (%)": 43.39
   },
   {
     "Symbol": "COTIUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.09037,
     "Lowest": 0.04197,
     "After Pivot High": 0.05999,
@@ -1752,7 +1982,7 @@
   {
     "Symbol": "ALCHUSDT",
     "Earliest Date": "2024-12-27",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.239,
     "Lowest": 0.11481,
     "After Pivot High": 0.16398,
@@ -1760,19 +1990,9 @@
     "Rise from Lowest after Pivot (%)": 42.83
   },
   {
-    "Symbol": "VELOUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.0164,
-    "Lowest": 0.010984,
-    "After Pivot High": 0.015688,
-    "Drop from Prev High (%)": -33.02,
-    "Rise from Lowest after Pivot (%)": 42.83
-  },
-  {
     "Symbol": "LDOUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-08-08",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.1781,
     "Lowest": 0.6186,
     "After Pivot High": 0.8829,
@@ -1782,27 +2002,27 @@
   {
     "Symbol": "KAITOUSDT",
     "Earliest Date": "2025-02-22",
-    "Latest Date": "2025-07-11",
-    "Prev High": 2.42,
-    "Lowest": 1.2048,
+    "Latest Date": "2025-07-13",
+    "Prev High": 2.4208,
+    "Lowest": 1.205,
     "After Pivot High": 1.7191,
-    "Drop from Prev High (%)": -50.21,
-    "Rise from Lowest after Pivot (%)": 42.69
+    "Drop from Prev High (%)": -50.22,
+    "Rise from Lowest after Pivot (%)": 42.66
   },
   {
     "Symbol": "ENSUSDT",
-    "Earliest Date": "2022-10-16",
-    "Latest Date": "2025-07-11",
-    "Prev High": 25.31,
+    "Earliest Date": "2021-11-11",
+    "Latest Date": "2025-07-13",
+    "Prev High": 25.28,
     "Lowest": 16.03,
     "After Pivot High": 22.83,
-    "Drop from Prev High (%)": -36.67,
+    "Drop from Prev High (%)": -36.59,
     "Rise from Lowest after Pivot (%)": 42.42
   },
   {
     "Symbol": "BERAUSDT",
     "Earliest Date": "2025-02-08",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 7.6215,
     "Lowest": 1.501,
     "After Pivot High": 2.135,
@@ -1810,19 +2030,9 @@
     "Rise from Lowest after Pivot (%)": 42.24
   },
   {
-    "Symbol": "ZETAUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.3141,
-    "Lowest": 0.151,
-    "After Pivot High": 0.2147,
-    "Drop from Prev High (%)": -51.93,
-    "Rise from Lowest after Pivot (%)": 42.19
-  },
-  {
     "Symbol": "SNXUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.9642,
     "Lowest": 0.4804,
     "After Pivot High": 0.6826,
@@ -1830,9 +2040,19 @@
     "Rise from Lowest after Pivot (%)": 42.09
   },
   {
+    "Symbol": "GUSDT",
+    "Earliest Date": "2024-07-31",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.01741,
+    "Lowest": 0.00985,
+    "After Pivot High": 0.01399,
+    "Drop from Prev High (%)": -43.42,
+    "Rise from Lowest after Pivot (%)": 42.03
+  },
+  {
     "Symbol": "RONUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.7768,
     "Lowest": 0.3853,
     "After Pivot High": 0.5468,
@@ -1840,39 +2060,9 @@
     "Rise from Lowest after Pivot (%)": 41.92
   },
   {
-    "Symbol": "GIGAUSDT",
-    "Earliest Date": "2024-07-24",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.03295,
-    "Lowest": 0.01485,
-    "After Pivot High": 0.02105,
-    "Drop from Prev High (%)": -54.93,
-    "Rise from Lowest after Pivot (%)": 41.75
-  },
-  {
-    "Symbol": "CELOUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.4617,
-    "Lowest": 0.2364,
-    "After Pivot High": 0.335,
-    "Drop from Prev High (%)": -48.8,
-    "Rise from Lowest after Pivot (%)": 41.71
-  },
-  {
-    "Symbol": "MOVRUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 8.542,
-    "Lowest": 4.633,
-    "After Pivot High": 6.564,
-    "Drop from Prev High (%)": -45.76,
-    "Rise from Lowest after Pivot (%)": 41.68
-  },
-  {
     "Symbol": "ILVUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-04-02",
+    "Latest Date": "2025-07-13",
     "Prev High": 18.11,
     "Lowest": 9.05,
     "After Pivot High": 12.796,
@@ -1880,9 +2070,19 @@
     "Rise from Lowest after Pivot (%)": 41.39
   },
   {
+    "Symbol": "ZRXUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.3133,
+    "Lowest": 0.1906,
+    "After Pivot High": 0.2692,
+    "Drop from Prev High (%)": -39.16,
+    "Rise from Lowest after Pivot (%)": 41.24
+  },
+  {
     "Symbol": "EDUUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.198,
     "Lowest": 0.1108,
     "After Pivot High": 0.1562,
@@ -1892,7 +2092,7 @@
   {
     "Symbol": "DRIFTUSDT",
     "Earliest Date": "2024-05-18",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.825,
     "Lowest": 0.3464,
     "After Pivot High": 0.4883,
@@ -1900,19 +2100,29 @@
     "Rise from Lowest after Pivot (%)": 40.96
   },
   {
-    "Symbol": "FETUSDT",
+    "Symbol": "STEEMUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.991,
-    "Lowest": 0.548,
-    "After Pivot High": 0.7722,
-    "Drop from Prev High (%)": -44.7,
-    "Rise from Lowest after Pivot (%)": 40.91
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.1746,
+    "Lowest": 0.1105,
+    "After Pivot High": 0.1557,
+    "Drop from Prev High (%)": -36.71,
+    "Rise from Lowest after Pivot (%)": 40.9
+  },
+  {
+    "Symbol": "ONTUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.1814,
+    "Lowest": 0.1052,
+    "After Pivot High": 0.1482,
+    "Drop from Prev High (%)": -42.01,
+    "Rise from Lowest after Pivot (%)": 40.87
   },
   {
     "Symbol": "RPLUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 7.762,
     "Lowest": 4.586,
     "After Pivot High": 6.451,
@@ -1920,9 +2130,19 @@
     "Rise from Lowest after Pivot (%)": 40.67
   },
   {
+    "Symbol": "FETUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.9903,
+    "Lowest": 0.5491,
+    "After Pivot High": 0.7722,
+    "Drop from Prev High (%)": -44.55,
+    "Rise from Lowest after Pivot (%)": 40.63
+  },
+  {
     "Symbol": "VETUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.03398,
     "Lowest": 0.0182,
     "After Pivot High": 0.02554,
@@ -1930,39 +2150,99 @@
     "Rise from Lowest after Pivot (%)": 40.33
   },
   {
-    "Symbol": "BLURUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.13054,
-    "Lowest": 0.06134,
-    "After Pivot High": 0.08588,
-    "Drop from Prev High (%)": -53.01,
-    "Rise from Lowest after Pivot (%)": 40.01
+    "Symbol": "MINAUSDT",
+    "Earliest Date": "2021-06-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.3134,
+    "Lowest": 0.1459,
+    "After Pivot High": 0.2047,
+    "Drop from Prev High (%)": -53.45,
+    "Rise from Lowest after Pivot (%)": 40.3
   },
   {
-    "Symbol": "BIGTIMEUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.0967,
-    "Lowest": 0.04307,
-    "After Pivot High": 0.06026,
-    "Drop from Prev High (%)": -55.46,
-    "Rise from Lowest after Pivot (%)": 39.91
+    "Symbol": "WMTXUSDT",
+    "Earliest Date": "2024-10-11",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.2021,
+    "Lowest": 0.13,
+    "After Pivot High": 0.1823,
+    "Drop from Prev High (%)": -35.68,
+    "Rise from Lowest after Pivot (%)": 40.23
+  },
+  {
+    "Symbol": "SAFEUSDT",
+    "Earliest Date": "2024-04-27",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.76,
+    "Lowest": 0.3463,
+    "After Pivot High": 0.4853,
+    "Drop from Prev High (%)": -54.43,
+    "Rise from Lowest after Pivot (%)": 40.14
   },
   {
     "Symbol": "TAOUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 500,
-    "Lowest": 287.5,
-    "After Pivot High": 401.38,
-    "Drop from Prev High (%)": -42.5,
-    "Rise from Lowest after Pivot (%)": 39.61
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 489,
+    "Lowest": 287.52,
+    "After Pivot High": 402.82,
+    "Drop from Prev High (%)": -41.2,
+    "Rise from Lowest after Pivot (%)": 40.1
+  },
+  {
+    "Symbol": "EGLDUSDT",
+    "Earliest Date": "2022-03-26",
+    "Latest Date": "2025-07-13",
+    "Prev High": 22.03,
+    "Lowest": 11.4,
+    "After Pivot High": 15.95,
+    "Drop from Prev High (%)": -48.25,
+    "Rise from Lowest after Pivot (%)": 39.91
+  },
+  {
+    "Symbol": "ANKRUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.02228,
+    "Lowest": 0.01242,
+    "After Pivot High": 0.01737,
+    "Drop from Prev High (%)": -44.25,
+    "Rise from Lowest after Pivot (%)": 39.86
+  },
+  {
+    "Symbol": "XDCUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.08351,
+    "Lowest": 0.055,
+    "After Pivot High": 0.07683,
+    "Drop from Prev High (%)": -34.14,
+    "Rise from Lowest after Pivot (%)": 39.69
+  },
+  {
+    "Symbol": "BANUSDT",
+    "Earliest Date": "2024-10-29",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.076,
+    "Lowest": 0.0508,
+    "After Pivot High": 0.07076,
+    "Drop from Prev High (%)": -33.16,
+    "Rise from Lowest after Pivot (%)": 39.29
+  },
+  {
+    "Symbol": "WAXPUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.0307,
+    "Lowest": 0.01784,
+    "After Pivot High": 0.02485,
+    "Drop from Prev High (%)": -41.89,
+    "Rise from Lowest after Pivot (%)": 39.29
   },
   {
     "Symbol": "HOTUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-04-04",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.0014886,
     "Lowest": 0.0007205,
     "After Pivot High": 0.0010028,
@@ -1970,39 +2250,9 @@
     "Rise from Lowest after Pivot (%)": 39.18
   },
   {
-    "Symbol": "XDCUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.08351,
-    "Lowest": 0.055,
-    "After Pivot High": 0.07653,
-    "Drop from Prev High (%)": -34.14,
-    "Rise from Lowest after Pivot (%)": 39.15
-  },
-  {
-    "Symbol": "MINAUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.3134,
-    "Lowest": 0.1459,
-    "After Pivot High": 0.2029,
-    "Drop from Prev High (%)": -53.45,
-    "Rise from Lowest after Pivot (%)": 39.07
-  },
-  {
-    "Symbol": "EGLDUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 22.03,
-    "Lowest": 11.4,
-    "After Pivot High": 15.85,
-    "Drop from Prev High (%)": -48.25,
-    "Rise from Lowest after Pivot (%)": 39.04
-  },
-  {
     "Symbol": "CSPRUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-05-13",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.02697,
     "Lowest": 0.009773,
     "After Pivot High": 0.013567,
@@ -2010,9 +2260,19 @@
     "Rise from Lowest after Pivot (%)": 38.82
   },
   {
+    "Symbol": "AVAXUSDT",
+    "Earliest Date": "2021-08-28",
+    "Latest Date": "2025-07-13",
+    "Prev High": 26.84,
+    "Lowest": 15.61,
+    "After Pivot High": 21.65,
+    "Drop from Prev High (%)": -41.84,
+    "Rise from Lowest after Pivot (%)": 38.69
+  },
+  {
     "Symbol": "SHIBUSDT",
-    "Earliest Date": "2021-05-12",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-04-18",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.00001765,
     "Lowest": 0.00001004,
     "After Pivot High": 0.00001387,
@@ -2020,29 +2280,39 @@
     "Rise from Lowest after Pivot (%)": 38.15
   },
   {
-    "Symbol": "AVAXUSDT",
+    "Symbol": "XTZUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 26.84,
-    "Lowest": 15.61,
-    "After Pivot High": 21.53,
-    "Drop from Prev High (%)": -41.84,
-    "Rise from Lowest after Pivot (%)": 37.92
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.7018,
+    "Lowest": 0.4721,
+    "After Pivot High": 0.6518,
+    "Drop from Prev High (%)": -32.73,
+    "Rise from Lowest after Pivot (%)": 38.06
   },
   {
-    "Symbol": "SHXUSDT",
-    "Earliest Date": "2024-03-31",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.016717,
-    "Lowest": 0.009943,
-    "After Pivot High": 0.013701,
-    "Drop from Prev High (%)": -40.52,
-    "Rise from Lowest after Pivot (%)": 37.8
+    "Symbol": "CRVUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.8596,
+    "Lowest": 0.4893,
+    "After Pivot High": 0.6753,
+    "Drop from Prev High (%)": -43.08,
+    "Rise from Lowest after Pivot (%)": 38.01
+  },
+  {
+    "Symbol": "TAIKOUSDT",
+    "Earliest Date": "2024-06-07",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.9,
+    "Lowest": 0.3431,
+    "After Pivot High": 0.4733,
+    "Drop from Prev High (%)": -61.88,
+    "Rise from Lowest after Pivot (%)": 37.95
   },
   {
     "Symbol": "QTUMUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 2.737,
     "Lowest": 1.726,
     "After Pivot High": 2.378,
@@ -2050,19 +2320,9 @@
     "Rise from Lowest after Pivot (%)": 37.78
   },
   {
-    "Symbol": "BATUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.1731,
-    "Lowest": 0.1082,
-    "After Pivot High": 0.149,
-    "Drop from Prev High (%)": -37.49,
-    "Rise from Lowest after Pivot (%)": 37.71
-  },
-  {
     "Symbol": "PHAUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.15881,
     "Lowest": 0.08334,
     "After Pivot High": 0.11467,
@@ -2070,9 +2330,19 @@
     "Rise from Lowest after Pivot (%)": 37.59
   },
   {
+    "Symbol": "SXPUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.2626,
+    "Lowest": 0.156,
+    "After Pivot High": 0.2145,
+    "Drop from Prev High (%)": -40.59,
+    "Rise from Lowest after Pivot (%)": 37.5
+  },
+  {
     "Symbol": "WHITEUSDT",
     "Earliest Date": "2025-02-06",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.0030843,
     "Lowest": 0.0004,
     "After Pivot High": 0.00055,
@@ -2081,78 +2351,78 @@
   },
   {
     "Symbol": "QNTUSDT",
-    "Earliest Date": "2021-07-31",
-    "Latest Date": "2025-07-11",
-    "Prev High": 125.56,
-    "Lowest": 85.52,
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 127.74,
+    "Lowest": 85.57,
     "After Pivot High": 117.43,
-    "Drop from Prev High (%)": -31.89,
-    "Rise from Lowest after Pivot (%)": 37.31
+    "Drop from Prev High (%)": -33.01,
+    "Rise from Lowest after Pivot (%)": 37.23
   },
   {
-    "Symbol": "ARKUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.5569,
-    "Lowest": 0.3078,
-    "After Pivot High": 0.4225,
-    "Drop from Prev High (%)": -44.73,
-    "Rise from Lowest after Pivot (%)": 37.26
+    "Symbol": "ONGUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.2435,
+    "Lowest": 0.1478,
+    "After Pivot High": 0.2025,
+    "Drop from Prev High (%)": -39.3,
+    "Rise from Lowest after Pivot (%)": 37.01
   },
   {
-    "Symbol": "SANDUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.39,
-    "Lowest": 0.219,
-    "After Pivot High": 0.3006,
-    "Drop from Prev High (%)": -43.85,
-    "Rise from Lowest after Pivot (%)": 37.26
+    "Symbol": "VTHOUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.003403,
+    "Lowest": 0.001643,
+    "After Pivot High": 0.002251,
+    "Drop from Prev High (%)": -51.72,
+    "Rise from Lowest after Pivot (%)": 37.01
   },
   {
-    "Symbol": "RLCUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 1.445,
-    "Lowest": 0.775,
-    "After Pivot High": 1.0626,
-    "Drop from Prev High (%)": -46.37,
-    "Rise from Lowest after Pivot (%)": 37.11
+    "Symbol": "BLASTUSDT",
+    "Earliest Date": "2024-06-28",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.003991,
+    "Lowest": 0.001872,
+    "After Pivot High": 0.002563,
+    "Drop from Prev High (%)": -53.09,
+    "Rise from Lowest after Pivot (%)": 36.91
   },
   {
-    "Symbol": "SAFEUSDT",
-    "Earliest Date": "2024-04-27",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.76,
-    "Lowest": 0.3463,
-    "After Pivot High": 0.4748,
-    "Drop from Prev High (%)": -54.43,
-    "Rise from Lowest after Pivot (%)": 37.11
+    "Symbol": "FLOWUSDT",
+    "Earliest Date": "2021-03-11",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.4775,
+    "Lowest": 0.29,
+    "After Pivot High": 0.3965,
+    "Drop from Prev High (%)": -39.27,
+    "Rise from Lowest after Pivot (%)": 36.72
   },
   {
     "Symbol": "DOTUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 5.4,
-    "Lowest": 3.007,
+    "Latest Date": "2025-07-13",
+    "Prev High": 5.398,
+    "Lowest": 3.009,
     "After Pivot High": 4.11,
-    "Drop from Prev High (%)": -44.31,
-    "Rise from Lowest after Pivot (%)": 36.68
+    "Drop from Prev High (%)": -44.26,
+    "Rise from Lowest after Pivot (%)": 36.59
   },
   {
-    "Symbol": "STORJUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.3519,
-    "Lowest": 0.2108,
-    "After Pivot High": 0.288,
-    "Drop from Prev High (%)": -40.1,
-    "Rise from Lowest after Pivot (%)": 36.62
+    "Symbol": "ZILUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.01536,
+    "Lowest": 0.00939,
+    "After Pivot High": 0.01282,
+    "Drop from Prev High (%)": -38.87,
+    "Rise from Lowest after Pivot (%)": 36.53
   },
   {
     "Symbol": "PONDUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.011958,
     "Lowest": 0.006646,
     "After Pivot High": 0.009073,
@@ -2160,29 +2430,59 @@
     "Rise from Lowest after Pivot (%)": 36.52
   },
   {
-    "Symbol": "SKLUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.029,
-    "Lowest": 0.0158,
-    "After Pivot High": 0.02156,
-    "Drop from Prev High (%)": -45.52,
-    "Rise from Lowest after Pivot (%)": 36.46
-  },
-  {
     "Symbol": "FILUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 3.459,
-    "Lowest": 1.964,
+    "Latest Date": "2025-07-13",
+    "Prev High": 3.446,
+    "Lowest": 1.965,
     "After Pivot High": 2.679,
-    "Drop from Prev High (%)": -43.22,
-    "Rise from Lowest after Pivot (%)": 36.41
+    "Drop from Prev High (%)": -42.98,
+    "Rise from Lowest after Pivot (%)": 36.34
+  },
+  {
+    "Symbol": "AITECHUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.075,
+    "Lowest": 0.03227,
+    "After Pivot High": 0.04395,
+    "Drop from Prev High (%)": -56.97,
+    "Rise from Lowest after Pivot (%)": 36.19
+  },
+  {
+    "Symbol": "CHZUSDT",
+    "Earliest Date": "2021-02-05",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.05103,
+    "Lowest": 0.03059,
+    "After Pivot High": 0.04166,
+    "Drop from Prev High (%)": -40.05,
+    "Rise from Lowest after Pivot (%)": 36.19
+  },
+  {
+    "Symbol": "CARVUSDT",
+    "Earliest Date": "2024-10-12",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.4415,
+    "Lowest": 0.2164,
+    "After Pivot High": 0.2947,
+    "Drop from Prev High (%)": -50.99,
+    "Rise from Lowest after Pivot (%)": 36.18
+  },
+  {
+    "Symbol": "BNTUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.767,
+    "Lowest": 0.5174,
+    "After Pivot High": 0.7042,
+    "Drop from Prev High (%)": -32.54,
+    "Rise from Lowest after Pivot (%)": 36.1
   },
   {
     "Symbol": "LQTYUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-04-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.2251,
     "Lowest": 1.0124,
     "After Pivot High": 1.3774,
@@ -2190,19 +2490,9 @@
     "Rise from Lowest after Pivot (%)": 36.05
   },
   {
-    "Symbol": "ZRXUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.3133,
-    "Lowest": 0.1906,
-    "After Pivot High": 0.2592,
-    "Drop from Prev High (%)": -39.16,
-    "Rise from Lowest after Pivot (%)": 35.99
-  },
-  {
     "Symbol": "ACHUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.03118,
     "Lowest": 0.01652,
     "After Pivot High": 0.02245,
@@ -2211,38 +2501,28 @@
   },
   {
     "Symbol": "APTUSDT",
-    "Earliest Date": "2022-10-21",
-    "Latest Date": "2025-07-11",
-    "Prev High": 6.282,
-    "Lowest": 3.747,
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 6.281,
+    "Lowest": 3.746,
     "After Pivot High": 5.091,
-    "Drop from Prev High (%)": -40.35,
+    "Drop from Prev High (%)": -40.36,
+    "Rise from Lowest after Pivot (%)": 35.9
+  },
+  {
+    "Symbol": "MEUSDT",
+    "Earliest Date": "2024-12-12",
+    "Latest Date": "2025-07-13",
+    "Prev High": 1.2085,
+    "Lowest": 0.6381,
+    "After Pivot High": 0.867,
+    "Drop from Prev High (%)": -47.2,
     "Rise from Lowest after Pivot (%)": 35.87
   },
   {
-    "Symbol": "BNTUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.767,
-    "Lowest": 0.5174,
-    "After Pivot High": 0.7027,
-    "Drop from Prev High (%)": -32.54,
-    "Rise from Lowest after Pivot (%)": 35.81
-  },
-  {
-    "Symbol": "ORCAUSDT",
-    "Earliest Date": "2024-12-08",
-    "Latest Date": "2025-07-11",
-    "Prev High": 3.858,
-    "Lowest": 1.701,
-    "After Pivot High": 2.31,
-    "Drop from Prev High (%)": -55.91,
-    "Rise from Lowest after Pivot (%)": 35.8
-  },
-  {
     "Symbol": "ZIGUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-06-10",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.117636,
     "Lowest": 0.070924,
     "After Pivot High": 0.0963,
@@ -2250,29 +2530,29 @@
     "Rise from Lowest after Pivot (%)": 35.78
   },
   {
-    "Symbol": "WMTXUSDT",
-    "Earliest Date": "2024-10-11",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.2021,
-    "Lowest": 0.13,
-    "After Pivot High": 0.1765,
-    "Drop from Prev High (%)": -35.68,
-    "Rise from Lowest after Pivot (%)": 35.77
+    "Symbol": "VANAUSDT",
+    "Earliest Date": "2024-12-18",
+    "Latest Date": "2025-07-13",
+    "Prev High": 7.68,
+    "Lowest": 3.837,
+    "After Pivot High": 5.207,
+    "Drop from Prev High (%)": -50.04,
+    "Rise from Lowest after Pivot (%)": 35.7
   },
   {
-    "Symbol": "GUSDT",
-    "Earliest Date": "2024-07-31",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.01741,
-    "Lowest": 0.00985,
-    "After Pivot High": 0.01337,
-    "Drop from Prev High (%)": -43.42,
-    "Rise from Lowest after Pivot (%)": 35.74
+    "Symbol": "IDUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.2553,
+    "Lowest": 0.1342,
+    "After Pivot High": 0.1821,
+    "Drop from Prev High (%)": -47.43,
+    "Rise from Lowest after Pivot (%)": 35.69
   },
   {
     "Symbol": "NEOUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 8.341,
     "Lowest": 4.738,
     "After Pivot High": 6.429,
@@ -2280,19 +2560,9 @@
     "Rise from Lowest after Pivot (%)": 35.69
   },
   {
-    "Symbol": "ONTUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.1814,
-    "Lowest": 0.1052,
-    "After Pivot High": 0.1427,
-    "Drop from Prev High (%)": -42.01,
-    "Rise from Lowest after Pivot (%)": 35.65
-  },
-  {
     "Symbol": "RUNEUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 2.188,
     "Lowest": 1.171,
     "After Pivot High": 1.588,
@@ -2302,7 +2572,7 @@
   {
     "Symbol": "ACTUSDT",
     "Earliest Date": "2024-10-26",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.1899,
     "Lowest": 0.03546,
     "After Pivot High": 0.04808,
@@ -2311,8 +2581,8 @@
   },
   {
     "Symbol": "AXSUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-04-01",
+    "Latest Date": "2025-07-13",
     "Prev High": 3.706,
     "Lowest": 1.915,
     "After Pivot High": 2.596,
@@ -2320,19 +2590,19 @@
     "Rise from Lowest after Pivot (%)": 35.56
   },
   {
-    "Symbol": "BANUSDT",
-    "Earliest Date": "2024-10-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.076,
-    "Lowest": 0.0508,
-    "After Pivot High": 0.06885,
-    "Drop from Prev High (%)": -33.16,
-    "Rise from Lowest after Pivot (%)": 35.53
+    "Symbol": "SPELLUSDT",
+    "Earliest Date": "2021-10-07",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.0007557,
+    "Lowest": 0.0003976,
+    "After Pivot High": 0.0005386,
+    "Drop from Prev High (%)": -47.39,
+    "Rise from Lowest after Pivot (%)": 35.46
   },
   {
     "Symbol": "PENDLEUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-08-19",
+    "Latest Date": "2025-07-13",
     "Prev High": 4.717,
     "Lowest": 3.103,
     "After Pivot High": 4.2,
@@ -2340,89 +2610,49 @@
     "Rise from Lowest after Pivot (%)": 35.35
   },
   {
-    "Symbol": "CHZUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.05103,
-    "Lowest": 0.03059,
-    "After Pivot High": 0.0414,
-    "Drop from Prev High (%)": -40.05,
-    "Rise from Lowest after Pivot (%)": 35.34
-  },
-  {
-    "Symbol": "IDUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.2553,
-    "Lowest": 0.1342,
-    "After Pivot High": 0.1815,
-    "Drop from Prev High (%)": -47.43,
-    "Rise from Lowest after Pivot (%)": 35.25
+    "Symbol": "AGLDUSDT",
+    "Earliest Date": "2021-09-05",
+    "Latest Date": "2025-07-13",
+    "Prev High": 1.1657,
+    "Lowest": 0.6142,
+    "After Pivot High": 0.8309,
+    "Drop from Prev High (%)": -47.31,
+    "Rise from Lowest after Pivot (%)": 35.28
   },
   {
     "Symbol": "ATOMUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 5.499,
+    "Latest Date": "2025-07-13",
+    "Prev High": 5.498,
     "Lowest": 3.55,
     "After Pivot High": 4.8,
-    "Drop from Prev High (%)": -35.44,
+    "Drop from Prev High (%)": -35.43,
     "Rise from Lowest after Pivot (%)": 35.21
   },
   {
-    "Symbol": "VVVUSDT",
-    "Earliest Date": "2025-01-30",
-    "Latest Date": "2025-07-11",
-    "Prev High": 5.338,
-    "Lowest": 2.321,
-    "After Pivot High": 3.132,
-    "Drop from Prev High (%)": -56.52,
-    "Rise from Lowest after Pivot (%)": 34.94
-  },
-  {
-    "Symbol": "CRVUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.8596,
-    "Lowest": 0.4893,
-    "After Pivot High": 0.6602,
-    "Drop from Prev High (%)": -43.08,
-    "Rise from Lowest after Pivot (%)": 34.93
-  },
-  {
-    "Symbol": "VANAUSDT",
-    "Earliest Date": "2024-12-18",
-    "Latest Date": "2025-07-11",
-    "Prev High": 7.68,
-    "Lowest": 3.837,
-    "After Pivot High": 5.165,
-    "Drop from Prev High (%)": -50.04,
-    "Rise from Lowest after Pivot (%)": 34.61
-  },
-  {
-    "Symbol": "FLOWUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.4775,
-    "Lowest": 0.29,
-    "After Pivot High": 0.3888,
-    "Drop from Prev High (%)": -39.27,
-    "Rise from Lowest after Pivot (%)": 34.07
-  },
-  {
     "Symbol": "RIFUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.07,
     "Lowest": 0.04592,
-    "After Pivot High": 0.06148,
+    "After Pivot High": 0.06174,
     "Drop from Prev High (%)": -34.4,
-    "Rise from Lowest after Pivot (%)": 33.89
+    "Rise from Lowest after Pivot (%)": 34.45
+  },
+  {
+    "Symbol": "GLMRUSDT",
+    "Earliest Date": "2022-01-13",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.11123,
+    "Lowest": 0.05809,
+    "After Pivot High": 0.07781,
+    "Drop from Prev High (%)": -47.77,
+    "Rise from Lowest after Pivot (%)": 33.95
   },
   {
     "Symbol": "QUBICUSDT",
     "Earliest Date": "2024-07-19",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.0000018,
     "Lowest": 0.00000127,
     "After Pivot High": 0.0000017,
@@ -2430,29 +2660,9 @@
     "Rise from Lowest after Pivot (%)": 33.86
   },
   {
-    "Symbol": "CROUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.11024,
-    "Lowest": 0.07733,
-    "After Pivot High": 0.10345,
-    "Drop from Prev High (%)": -29.85,
-    "Rise from Lowest after Pivot (%)": 33.78
-  },
-  {
-    "Symbol": "ZILUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.01536,
-    "Lowest": 0.00939,
-    "After Pivot High": 0.01256,
-    "Drop from Prev High (%)": -38.87,
-    "Rise from Lowest after Pivot (%)": 33.76
-  },
-  {
     "Symbol": "FTTUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-08-22",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.396,
     "Lowest": 0.6969,
     "After Pivot High": 0.9312,
@@ -2460,19 +2670,39 @@
     "Rise from Lowest after Pivot (%)": 33.62
   },
   {
+    "Symbol": "SCUSDT",
+    "Earliest Date": "2021-02-01",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.003963,
+    "Lowest": 0.002643,
+    "After Pivot High": 0.003531,
+    "Drop from Prev High (%)": -33.31,
+    "Rise from Lowest after Pivot (%)": 33.6
+  },
+  {
     "Symbol": "SOLUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 187.71,
-    "Lowest": 126,
+    "Latest Date": "2025-07-13",
+    "Prev High": 187.7,
+    "Lowest": 126.01,
     "After Pivot High": 168.18,
-    "Drop from Prev High (%)": -32.88,
-    "Rise from Lowest after Pivot (%)": 33.48
+    "Drop from Prev High (%)": -32.87,
+    "Rise from Lowest after Pivot (%)": 33.47
+  },
+  {
+    "Symbol": "WAVESUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 1.5798,
+    "Lowest": 0.8722,
+    "After Pivot High": 1.1635,
+    "Drop from Prev High (%)": -44.79,
+    "Rise from Lowest after Pivot (%)": 33.4
   },
   {
     "Symbol": "LPTUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-24",
+    "Latest Date": "2025-07-13",
     "Prev High": 14.35,
     "Lowest": 5.3,
     "After Pivot High": 7.058,
@@ -2480,39 +2710,29 @@
     "Rise from Lowest after Pivot (%)": 33.17
   },
   {
-    "Symbol": "CTCUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.7708,
-    "Lowest": 0.5081,
-    "After Pivot High": 0.676,
-    "Drop from Prev High (%)": -34.08,
-    "Rise from Lowest after Pivot (%)": 33.04
+    "Symbol": "NMRUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 12.2,
+    "Lowest": 6.417,
+    "After Pivot High": 8.52,
+    "Drop from Prev High (%)": -47.4,
+    "Rise from Lowest after Pivot (%)": 32.77
   },
   {
-    "Symbol": "HIVEUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.2982,
-    "Lowest": 0.1756,
-    "After Pivot High": 0.2334,
-    "Drop from Prev High (%)": -41.11,
-    "Rise from Lowest after Pivot (%)": 32.92
-  },
-  {
-    "Symbol": "BLASTUSDT",
-    "Earliest Date": "2024-06-28",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.003991,
-    "Lowest": 0.001872,
-    "After Pivot High": 0.002488,
-    "Drop from Prev High (%)": -53.09,
-    "Rise from Lowest after Pivot (%)": 32.91
+    "Symbol": "OSMOUSDT",
+    "Earliest Date": "2022-01-15",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.2803,
+    "Lowest": 0.1367,
+    "After Pivot High": 0.1814,
+    "Drop from Prev High (%)": -51.23,
+    "Rise from Lowest after Pivot (%)": 32.7
   },
   {
     "Symbol": "YFIUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 6595.8,
     "Lowest": 4382.9,
     "After Pivot High": 5810.7,
@@ -2520,29 +2740,19 @@
     "Rise from Lowest after Pivot (%)": 32.58
   },
   {
-    "Symbol": "ANKRUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.02228,
-    "Lowest": 0.01242,
-    "After Pivot High": 0.01646,
-    "Drop from Prev High (%)": -44.25,
+    "Symbol": "DASHUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 26.06,
+    "Lowest": 17.4,
+    "After Pivot High": 23.06,
+    "Drop from Prev High (%)": -33.23,
     "Rise from Lowest after Pivot (%)": 32.53
   },
   {
-    "Symbol": "AITECHUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.075,
-    "Lowest": 0.03227,
-    "After Pivot High": 0.04275,
-    "Drop from Prev High (%)": -56.97,
-    "Rise from Lowest after Pivot (%)": 32.48
-  },
-  {
     "Symbol": "LUNCUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.00007295,
     "Lowest": 0.00004958,
     "After Pivot High": 0.00006568,
@@ -2550,9 +2760,79 @@
     "Rise from Lowest after Pivot (%)": 32.47
   },
   {
+    "Symbol": "HONEYUSDT",
+    "Earliest Date": "2024-11-16",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.04675,
+    "Lowest": 0.01705,
+    "After Pivot High": 0.02258,
+    "Drop from Prev High (%)": -63.53,
+    "Rise from Lowest after Pivot (%)": 32.43
+  },
+  {
+    "Symbol": "AMPUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.006005,
+    "Lowest": 0.002966,
+    "After Pivot High": 0.003927,
+    "Drop from Prev High (%)": -50.61,
+    "Rise from Lowest after Pivot (%)": 32.4
+  },
+  {
+    "Symbol": "DCRUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 16.336,
+    "Lowest": 13.059,
+    "After Pivot High": 17.262,
+    "Drop from Prev High (%)": -20.06,
+    "Rise from Lowest after Pivot (%)": 32.18
+  },
+  {
+    "Symbol": "PROUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 1.27,
+    "Lowest": 0.7228,
+    "After Pivot High": 0.9553,
+    "Drop from Prev High (%)": -43.09,
+    "Rise from Lowest after Pivot (%)": 32.17
+  },
+  {
+    "Symbol": "GNOUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 147.03,
+    "Lowest": 97.83,
+    "After Pivot High": 129.27,
+    "Drop from Prev High (%)": -33.46,
+    "Rise from Lowest after Pivot (%)": 32.14
+  },
+  {
+    "Symbol": "MNTUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.8374,
+    "Lowest": 0.5222,
+    "After Pivot High": 0.69,
+    "Drop from Prev High (%)": -37.64,
+    "Rise from Lowest after Pivot (%)": 32.13
+  },
+  {
+    "Symbol": "MASKUSDT",
+    "Earliest Date": "2021-02-26",
+    "Latest Date": "2025-07-13",
+    "Prev High": 3.711,
+    "Lowest": 1.102,
+    "After Pivot High": 1.456,
+    "Drop from Prev High (%)": -70.3,
+    "Rise from Lowest after Pivot (%)": 32.12
+  },
+  {
     "Symbol": "CAKEUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-26",
+    "Latest Date": "2025-07-13",
     "Prev High": 2.944,
     "Lowest": 1.938,
     "After Pivot High": 2.558,
@@ -2560,39 +2840,9 @@
     "Rise from Lowest after Pivot (%)": 31.99
   },
   {
-    "Symbol": "GLMRUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.11123,
-    "Lowest": 0.05809,
-    "After Pivot High": 0.07661,
-    "Drop from Prev High (%)": -47.77,
-    "Rise from Lowest after Pivot (%)": 31.88
-  },
-  {
-    "Symbol": "GNOUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 147.03,
-    "Lowest": 97.83,
-    "After Pivot High": 128.9,
-    "Drop from Prev High (%)": -33.46,
-    "Rise from Lowest after Pivot (%)": 31.76
-  },
-  {
-    "Symbol": "CARVUSDT",
-    "Earliest Date": "2024-10-12",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.4415,
-    "Lowest": 0.2164,
-    "After Pivot High": 0.2848,
-    "Drop from Prev High (%)": -50.99,
-    "Rise from Lowest after Pivot (%)": 31.61
-  },
-  {
     "Symbol": "GRASSUSDT",
     "Earliest Date": "2024-10-30",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 2.6058,
     "Lowest": 0.9643,
     "After Pivot High": 1.269,
@@ -2600,59 +2850,19 @@
     "Rise from Lowest after Pivot (%)": 31.6
   },
   {
-    "Symbol": "VTHOUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.003403,
-    "Lowest": 0.001643,
-    "After Pivot High": 0.002161,
-    "Drop from Prev High (%)": -51.72,
-    "Rise from Lowest after Pivot (%)": 31.53
-  },
-  {
-    "Symbol": "XTZUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.7018,
-    "Lowest": 0.4721,
-    "After Pivot High": 0.6209,
-    "Drop from Prev High (%)": -32.73,
-    "Rise from Lowest after Pivot (%)": 31.52
-  },
-  {
-    "Symbol": "MEUSDT",
-    "Earliest Date": "2024-12-12",
-    "Latest Date": "2025-07-11",
-    "Prev High": 1.2085,
-    "Lowest": 0.6381,
-    "After Pivot High": 0.839,
-    "Drop from Prev High (%)": -47.2,
-    "Rise from Lowest after Pivot (%)": 31.48
-  },
-  {
-    "Symbol": "DCRUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 16.336,
-    "Lowest": 13.059,
-    "After Pivot High": 17.169,
-    "Drop from Prev High (%)": -20.06,
-    "Rise from Lowest after Pivot (%)": 31.47
-  },
-  {
-    "Symbol": "SPELLUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.0007557,
-    "Lowest": 0.0003976,
-    "After Pivot High": 0.0005224,
-    "Drop from Prev High (%)": -47.39,
-    "Rise from Lowest after Pivot (%)": 31.39
+    "Symbol": "TFUELUSDT",
+    "Earliest Date": "2024-08-18",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.04599,
+    "Lowest": 0.02871,
+    "After Pivot High": 0.03767,
+    "Drop from Prev High (%)": -37.57,
+    "Rise from Lowest after Pivot (%)": 31.21
   },
   {
     "Symbol": "SUNDOGUSDT",
     "Earliest Date": "2024-08-18",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.10096,
     "Lowest": 0.05185,
     "After Pivot High": 0.06801,
@@ -2660,9 +2870,19 @@
     "Rise from Lowest after Pivot (%)": 31.17
   },
   {
+    "Symbol": "ELFUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.281,
+    "Lowest": 0.1728,
+    "After Pivot High": 0.2265,
+    "Drop from Prev High (%)": -38.51,
+    "Rise from Lowest after Pivot (%)": 31.08
+  },
+  {
     "Symbol": "ZENUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 12.333,
     "Lowest": 6.552,
     "After Pivot High": 8.588,
@@ -2670,39 +2890,9 @@
     "Rise from Lowest after Pivot (%)": 31.07
   },
   {
-    "Symbol": "AGLDUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 1.1657,
-    "Lowest": 0.6142,
-    "After Pivot High": 0.805,
-    "Drop from Prev High (%)": -47.31,
-    "Rise from Lowest after Pivot (%)": 31.06
-  },
-  {
-    "Symbol": "AMPUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.006005,
-    "Lowest": 0.002966,
-    "After Pivot High": 0.003884,
-    "Drop from Prev High (%)": -50.61,
-    "Rise from Lowest after Pivot (%)": 30.95
-  },
-  {
-    "Symbol": "STEEMUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.1746,
-    "Lowest": 0.1105,
-    "After Pivot High": 0.1445,
-    "Drop from Prev High (%)": -36.71,
-    "Rise from Lowest after Pivot (%)": 30.77
-  },
-  {
     "Symbol": "ETCUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 21.01,
     "Lowest": 14.47,
     "After Pivot High": 18.92,
@@ -2711,8 +2901,8 @@
   },
   {
     "Symbol": "SAROSUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.23792,
     "Lowest": 0.203425,
     "After Pivot High": 0.265988,
@@ -2720,59 +2910,29 @@
     "Rise from Lowest after Pivot (%)": 30.75
   },
   {
-    "Symbol": "PROUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 1.27,
-    "Lowest": 0.7228,
-    "After Pivot High": 0.9446,
-    "Drop from Prev High (%)": -43.09,
-    "Rise from Lowest after Pivot (%)": 30.69
-  },
-  {
-    "Symbol": "MOCAUSDT",
-    "Earliest Date": "2024-07-13",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.11924,
-    "Lowest": 0.06023,
-    "After Pivot High": 0.07868,
-    "Drop from Prev High (%)": -49.49,
+    "Symbol": "SOSOUSDT",
+    "Earliest Date": "2025-01-26",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.6596,
+    "Lowest": 0.4815,
+    "After Pivot High": 0.629,
+    "Drop from Prev High (%)": -27,
     "Rise from Lowest after Pivot (%)": 30.63
   },
   {
-    "Symbol": "AUCTIONUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 16.913,
-    "Lowest": 7.783,
-    "After Pivot High": 10.164,
-    "Drop from Prev High (%)": -53.98,
-    "Rise from Lowest after Pivot (%)": 30.59
-  },
-  {
-    "Symbol": "ONGUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.2435,
-    "Lowest": 0.1478,
-    "After Pivot High": 0.1926,
-    "Drop from Prev High (%)": -39.3,
-    "Rise from Lowest after Pivot (%)": 30.31
-  },
-  {
-    "Symbol": "TAIKOUSDT",
-    "Earliest Date": "2024-06-07",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.9,
-    "Lowest": 0.3431,
-    "After Pivot High": 0.4466,
-    "Drop from Prev High (%)": -61.88,
-    "Rise from Lowest after Pivot (%)": 30.17
+    "Symbol": "AERGOUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.72092,
+    "Lowest": 0.10263,
+    "After Pivot High": 0.13389,
+    "Drop from Prev High (%)": -85.76,
+    "Rise from Lowest after Pivot (%)": 30.46
   },
   {
     "Symbol": "USTCUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.0153,
     "Lowest": 0.01115,
     "After Pivot High": 0.0145,
@@ -2781,8 +2941,8 @@
   },
   {
     "Symbol": "APEUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2022-03-19",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.7861,
     "Lowest": 0.5284,
     "After Pivot High": 0.6868,
@@ -2791,8 +2951,8 @@
   },
   {
     "Symbol": "XVSUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-02-08",
+    "Latest Date": "2025-07-13",
     "Prev High": 7.4197,
     "Lowest": 5.1187,
     "After Pivot High": 6.6411,
@@ -2800,119 +2960,89 @@
     "Rise from Lowest after Pivot (%)": 29.74
   },
   {
-    "Symbol": "DASHUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 26.06,
-    "Lowest": 17.4,
-    "After Pivot High": 22.55,
-    "Drop from Prev High (%)": -33.23,
-    "Rise from Lowest after Pivot (%)": 29.6
-  },
-  {
-    "Symbol": "SOSOUSDT",
-    "Earliest Date": "2025-01-26",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.6596,
-    "Lowest": 0.4815,
-    "After Pivot High": 0.6237,
-    "Drop from Prev High (%)": -27,
-    "Rise from Lowest after Pivot (%)": 29.53
+    "Symbol": "IQUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.006247,
+    "Lowest": 0.003133,
+    "After Pivot High": 0.004052,
+    "Drop from Prev High (%)": -49.85,
+    "Rise from Lowest after Pivot (%)": 29.33
   },
   {
     "Symbol": "ICPUSDT",
     "Earliest Date": "2021-05-13",
-    "Latest Date": "2025-07-11",
-    "Prev High": 6.32,
-    "Lowest": 4.313,
+    "Latest Date": "2025-07-13",
+    "Prev High": 6.318,
+    "Lowest": 4.317,
     "After Pivot High": 5.58,
-    "Drop from Prev High (%)": -31.76,
-    "Rise from Lowest after Pivot (%)": 29.38
-  },
-  {
-    "Symbol": "WAVESUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 1.5798,
-    "Lowest": 0.8722,
-    "After Pivot High": 1.128,
-    "Drop from Prev High (%)": -44.79,
-    "Rise from Lowest after Pivot (%)": 29.33
+    "Drop from Prev High (%)": -31.67,
+    "Rise from Lowest after Pivot (%)": 29.26
   },
   {
     "Symbol": "LTCUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 107.05,
-    "Lowest": 76.17,
+    "Latest Date": "2025-07-13",
+    "Prev High": 107.04,
+    "Lowest": 76.19,
     "After Pivot High": 98.3,
-    "Drop from Prev High (%)": -28.85,
-    "Rise from Lowest after Pivot (%)": 29.05
+    "Drop from Prev High (%)": -28.82,
+    "Rise from Lowest after Pivot (%)": 29.02
   },
   {
-    "Symbol": "NMRUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 12.2,
-    "Lowest": 6.417,
-    "After Pivot High": 8.281,
-    "Drop from Prev High (%)": -47.4,
-    "Rise from Lowest after Pivot (%)": 29.05
+    "Symbol": "OXTUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.07669,
+    "Lowest": 0.05014,
+    "After Pivot High": 0.06452,
+    "Drop from Prev High (%)": -34.62,
+    "Rise from Lowest after Pivot (%)": 28.68
   },
   {
-    "Symbol": "WAXPUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.0307,
-    "Lowest": 0.01784,
-    "After Pivot High": 0.023,
-    "Drop from Prev High (%)": -41.89,
-    "Rise from Lowest after Pivot (%)": 28.92
+    "Symbol": "SFPUSDT",
+    "Earliest Date": "2021-02-10",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.8496,
+    "Lowest": 0.4068,
+    "After Pivot High": 0.5224,
+    "Drop from Prev High (%)": -52.12,
+    "Rise from Lowest after Pivot (%)": 28.42
   },
   {
-    "Symbol": "SXPUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.2626,
-    "Lowest": 0.156,
-    "After Pivot High": 0.2009,
-    "Drop from Prev High (%)": -40.59,
-    "Rise from Lowest after Pivot (%)": 28.78
+    "Symbol": "DKAUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.02267,
+    "Lowest": 0.01353,
+    "After Pivot High": 0.01735,
+    "Drop from Prev High (%)": -40.32,
+    "Rise from Lowest after Pivot (%)": 28.23
   },
   {
-    "Symbol": "OSMOUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.2803,
-    "Lowest": 0.1367,
-    "After Pivot High": 0.1757,
-    "Drop from Prev High (%)": -51.23,
-    "Rise from Lowest after Pivot (%)": 28.53
+    "Symbol": "BTTUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 9.6e-7,
+    "Lowest": 5.486e-7,
+    "After Pivot High": 7.032e-7,
+    "Drop from Prev High (%)": -42.85,
+    "Rise from Lowest after Pivot (%)": 28.18
   },
   {
-    "Symbol": "TFUELUSDT",
-    "Earliest Date": "2024-08-18",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.04599,
-    "Lowest": 0.02871,
-    "After Pivot High": 0.03674,
-    "Drop from Prev High (%)": -37.57,
-    "Rise from Lowest after Pivot (%)": 27.97
-  },
-  {
-    "Symbol": "MASKUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 3.711,
-    "Lowest": 1.102,
-    "After Pivot High": 1.41,
-    "Drop from Prev High (%)": -70.3,
-    "Rise from Lowest after Pivot (%)": 27.95
+    "Symbol": "XECUSDT",
+    "Earliest Date": "2021-07-06",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.000026,
+    "Lowest": 0.00001675,
+    "After Pivot High": 0.00002147,
+    "Drop from Prev High (%)": -35.58,
+    "Rise from Lowest after Pivot (%)": 28.18
   },
   {
     "Symbol": "ALEOUSDT",
     "Earliest Date": "2024-09-20",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.3496,
     "Lowest": 0.18,
     "After Pivot High": 0.23,
@@ -2920,19 +3050,9 @@
     "Rise from Lowest after Pivot (%)": 27.78
   },
   {
-    "Symbol": "XECUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.000026,
-    "Lowest": 0.00001675,
-    "After Pivot High": 0.0000214,
-    "Drop from Prev High (%)": -35.58,
-    "Rise from Lowest after Pivot (%)": 27.76
-  },
-  {
     "Symbol": "ELONUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-11-23",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.858e-7,
     "Lowest": 1.017e-7,
     "After Pivot High": 1.299e-7,
@@ -2941,28 +3061,18 @@
   },
   {
     "Symbol": "BALUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.5711,
     "Lowest": 0.8903,
-    "After Pivot High": 1.1355,
+    "After Pivot High": 1.1371,
     "Drop from Prev High (%)": -43.33,
-    "Rise from Lowest after Pivot (%)": 27.54
-  },
-  {
-    "Symbol": "SFPUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.8496,
-    "Lowest": 0.4068,
-    "After Pivot High": 0.5162,
-    "Drop from Prev High (%)": -52.12,
-    "Rise from Lowest after Pivot (%)": 26.89
+    "Rise from Lowest after Pivot (%)": 27.72
   },
   {
     "Symbol": "KSMUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 24.65,
     "Lowest": 11.97,
     "After Pivot High": 15.18,
@@ -2971,8 +3081,8 @@
   },
   {
     "Symbol": "LRCUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.1267,
     "Lowest": 0.06577,
     "After Pivot High": 0.08333,
@@ -2980,19 +3090,9 @@
     "Rise from Lowest after Pivot (%)": 26.7
   },
   {
-    "Symbol": "SCUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.003963,
-    "Lowest": 0.002643,
-    "After Pivot High": 0.003337,
-    "Drop from Prev High (%)": -33.31,
-    "Rise from Lowest after Pivot (%)": 26.26
-  },
-  {
     "Symbol": "XRDUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.01226,
     "Lowest": 0.006101,
     "After Pivot High": 0.007701,
@@ -3000,29 +3100,19 @@
     "Rise from Lowest after Pivot (%)": 26.23
   },
   {
-    "Symbol": "BEAMUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.045,
-    "Lowest": 0.027,
-    "After Pivot High": 0.03393,
-    "Drop from Prev High (%)": -40,
-    "Rise from Lowest after Pivot (%)": 25.67
-  },
-  {
     "Symbol": "TRUMPUSDT",
     "Earliest Date": "2025-01-20",
-    "Latest Date": "2025-07-11",
-    "Prev High": 16.44,
-    "Lowest": 8.3,
+    "Latest Date": "2025-07-13",
+    "Prev High": 16.422,
+    "Lowest": 8.304,
     "After Pivot High": 10.423,
-    "Drop from Prev High (%)": -49.51,
-    "Rise from Lowest after Pivot (%)": 25.58
+    "Drop from Prev High (%)": -49.43,
+    "Rise from Lowest after Pivot (%)": 25.52
   },
   {
     "Symbol": "ZECUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 56.79,
     "Lowest": 36.37,
     "After Pivot High": 45.5,
@@ -3030,29 +3120,9 @@
     "Rise from Lowest after Pivot (%)": 25.1
   },
   {
-    "Symbol": "ELFUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.281,
-    "Lowest": 0.1728,
-    "After Pivot High": 0.2158,
-    "Drop from Prev High (%)": -38.51,
-    "Rise from Lowest after Pivot (%)": 24.88
-  },
-  {
-    "Symbol": "IQUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.006247,
-    "Lowest": 0.003133,
-    "After Pivot High": 0.003909,
-    "Drop from Prev High (%)": -49.85,
-    "Rise from Lowest after Pivot (%)": 24.77
-  },
-  {
     "Symbol": "OMUSDT",
     "Earliest Date": "2025-02-21",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 6.856,
     "Lowest": 0.1921,
     "After Pivot High": 0.2393,
@@ -3062,37 +3132,27 @@
   {
     "Symbol": "SWFTCUSDT",
     "Earliest Date": "2024-12-01",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.019801,
     "Lowest": 0.009534,
-    "After Pivot High": 0.011862,
+    "After Pivot High": 0.011875,
     "Drop from Prev High (%)": -51.85,
-    "Rise from Lowest after Pivot (%)": 24.42
+    "Rise from Lowest after Pivot (%)": 24.55
   },
   {
-    "Symbol": "BTTUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 9.6e-7,
-    "Lowest": 5.486e-7,
-    "After Pivot High": 6.816e-7,
-    "Drop from Prev High (%)": -42.85,
-    "Rise from Lowest after Pivot (%)": 24.24
-  },
-  {
-    "Symbol": "DKAUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.02267,
-    "Lowest": 0.01353,
-    "After Pivot High": 0.01679,
-    "Drop from Prev High (%)": -40.32,
-    "Rise from Lowest after Pivot (%)": 24.09
+    "Symbol": "ASTRUSDT",
+    "Earliest Date": "2022-04-16",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.03489,
+    "Lowest": 0.02074,
+    "After Pivot High": 0.02579,
+    "Drop from Prev High (%)": -40.56,
+    "Rise from Lowest after Pivot (%)": 24.35
   },
   {
     "Symbol": "DAGUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.055,
     "Lowest": 0.029,
     "After Pivot High": 0.03589,
@@ -3100,39 +3160,29 @@
     "Rise from Lowest after Pivot (%)": 23.76
   },
   {
-    "Symbol": "MNTUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.8374,
-    "Lowest": 0.5222,
-    "After Pivot High": 0.6449,
-    "Drop from Prev High (%)": -37.64,
-    "Rise from Lowest after Pivot (%)": 23.5
-  },
-  {
     "Symbol": "BCHUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 505.2,
-    "Lowest": 436.9,
+    "Latest Date": "2025-07-13",
+    "Prev High": 503,
+    "Lowest": 437,
     "After Pivot High": 539.4,
-    "Drop from Prev High (%)": -13.52,
-    "Rise from Lowest after Pivot (%)": 23.46
+    "Drop from Prev High (%)": -13.12,
+    "Rise from Lowest after Pivot (%)": 23.43
   },
   {
-    "Symbol": "KNCUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.4272,
-    "Lowest": 0.2703,
-    "After Pivot High": 0.3329,
-    "Drop from Prev High (%)": -36.73,
-    "Rise from Lowest after Pivot (%)": 23.16
+    "Symbol": "FAIUSDT",
+    "Earliest Date": "2024-12-23",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.03054,
+    "Lowest": 0.01507,
+    "After Pivot High": 0.01858,
+    "Drop from Prev High (%)": -50.65,
+    "Rise from Lowest after Pivot (%)": 23.29
   },
   {
     "Symbol": "FLRUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.02205,
     "Lowest": 0.01506,
     "After Pivot High": 0.01853,
@@ -3140,19 +3190,9 @@
     "Rise from Lowest after Pivot (%)": 23.04
   },
   {
-    "Symbol": "ASTRUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.03489,
-    "Lowest": 0.02074,
-    "After Pivot High": 0.02547,
-    "Drop from Prev High (%)": -40.56,
-    "Rise from Lowest after Pivot (%)": 22.81
-  },
-  {
     "Symbol": "WALUSDT",
     "Earliest Date": "2025-03-29",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.7779,
     "Lowest": 0.3588,
     "After Pivot High": 0.44,
@@ -3162,7 +3202,7 @@
   {
     "Symbol": "MELANIAUSDT",
     "Earliest Date": "2025-01-22",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.616,
     "Lowest": 0.1816,
     "After Pivot High": 0.2223,
@@ -3170,19 +3210,19 @@
     "Rise from Lowest after Pivot (%)": 22.41
   },
   {
-    "Symbol": "WEMIXUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.83,
-    "Lowest": 0.3716,
-    "After Pivot High": 0.4545,
-    "Drop from Prev High (%)": -55.23,
-    "Rise from Lowest after Pivot (%)": 22.31
+    "Symbol": "B3USDT",
+    "Earliest Date": "2025-02-12",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.006529,
+    "Lowest": 0.002477,
+    "After Pivot High": 0.00303,
+    "Drop from Prev High (%)": -62.06,
+    "Rise from Lowest after Pivot (%)": 22.33
   },
   {
     "Symbol": "ATHUSDT",
     "Earliest Date": "2024-06-14",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.05694,
     "Lowest": 0.02511,
     "After Pivot High": 0.03071,
@@ -3191,8 +3231,8 @@
   },
   {
     "Symbol": "UMAUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.8745,
     "Lowest": 1,
     "After Pivot High": 1.221,
@@ -3200,9 +3240,19 @@
     "Rise from Lowest after Pivot (%)": 22.1
   },
   {
+    "Symbol": "MYTHUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.2113,
+    "Lowest": 0.1044,
+    "After Pivot High": 0.1274,
+    "Drop from Prev High (%)": -50.59,
+    "Rise from Lowest after Pivot (%)": 22.03
+  },
+  {
     "Symbol": "COREUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.8957,
     "Lowest": 0.4666,
     "After Pivot High": 0.5693,
@@ -3210,39 +3260,39 @@
     "Rise from Lowest after Pivot (%)": 22.01
   },
   {
-    "Symbol": "B3USDT",
-    "Earliest Date": "2025-02-12",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.006529,
-    "Lowest": 0.002477,
-    "After Pivot High": 0.003018,
-    "Drop from Prev High (%)": -62.06,
-    "Rise from Lowest after Pivot (%)": 21.84
+    "Symbol": "ALUSDT",
+    "Earliest Date": "2024-05-10",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.216,
+    "Lowest": 0.0745,
+    "After Pivot High": 0.0908,
+    "Drop from Prev High (%)": -65.51,
+    "Rise from Lowest after Pivot (%)": 21.88
   },
   {
-    "Symbol": "HONEYUSDT",
-    "Earliest Date": "2024-11-16",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.04675,
-    "Lowest": 0.01705,
-    "After Pivot High": 0.02077,
-    "Drop from Prev High (%)": -63.53,
-    "Rise from Lowest after Pivot (%)": 21.82
-  },
-  {
-    "Symbol": "MYTHUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.2113,
-    "Lowest": 0.1044,
-    "After Pivot High": 0.1267,
-    "Drop from Prev High (%)": -50.59,
+    "Symbol": "NMDUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 10.5,
+    "Lowest": 7.8573,
+    "After Pivot High": 9.536,
+    "Drop from Prev High (%)": -25.17,
     "Rise from Lowest after Pivot (%)": 21.36
   },
   {
+    "Symbol": "AEROUSDT",
+    "Earliest Date": "2024-12-15",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.9683,
+    "Lowest": 0.696,
+    "After Pivot High": 0.8444,
+    "Drop from Prev High (%)": -28.12,
+    "Rise from Lowest after Pivot (%)": 21.32
+  },
+  {
     "Symbol": "TWTUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.9275,
     "Lowest": 0.6401,
     "After Pivot High": 0.7757,
@@ -3251,18 +3301,18 @@
   },
   {
     "Symbol": "COMPUSDT",
-    "Earliest Date": "2022-10-16",
-    "Latest Date": "2025-07-11",
-    "Prev High": 79.99,
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 87,
     "Lowest": 40.42,
     "After Pivot High": 48.94,
-    "Drop from Prev High (%)": -49.47,
+    "Drop from Prev High (%)": -53.54,
     "Rise from Lowest after Pivot (%)": 21.08
   },
   {
     "Symbol": "RVNUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.027772,
     "Lowest": 0.012507,
     "After Pivot High": 0.015142,
@@ -3272,17 +3322,17 @@
   {
     "Symbol": "BTCUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 111980,
-    "Lowest": 98200,
+    "Latest Date": "2025-07-13",
+    "Prev High": 111979.69,
+    "Lowest": 98200.01,
     "After Pivot High": 118865.17,
     "Drop from Prev High (%)": -12.31,
     "Rise from Lowest after Pivot (%)": 21.04
   },
   {
     "Symbol": "ABUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.015888,
     "Lowest": 0.007906,
     "After Pivot High": 0.009564,
@@ -3291,8 +3341,8 @@
   },
   {
     "Symbol": "BSVUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 47.57,
     "Lowest": 22.67,
     "After Pivot High": 27.41,
@@ -3300,39 +3350,19 @@
     "Rise from Lowest after Pivot (%)": 20.91
   },
   {
-    "Symbol": "NMDUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 10.5,
-    "Lowest": 7.8573,
-    "After Pivot High": 9.5002,
-    "Drop from Prev High (%)": -25.17,
-    "Rise from Lowest after Pivot (%)": 20.91
-  },
-  {
     "Symbol": "NEXOUSDT",
-    "Earliest Date": "2022-05-01",
-    "Latest Date": "2025-07-11",
-    "Prev High": 1.358,
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 1.35,
     "Lowest": 1.073,
     "After Pivot High": 1.297,
-    "Drop from Prev High (%)": -20.99,
+    "Drop from Prev High (%)": -20.52,
     "Rise from Lowest after Pivot (%)": 20.88
-  },
-  {
-    "Symbol": "SNTUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.0628,
-    "Lowest": 0.02526,
-    "After Pivot High": 0.03045,
-    "Drop from Prev High (%)": -59.78,
-    "Rise from Lowest after Pivot (%)": 20.55
   },
   {
     "Symbol": "KMNOUSDT",
     "Earliest Date": "2024-05-02",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.11342,
     "Lowest": 0.05343,
     "After Pivot High": 0.06438,
@@ -3340,29 +3370,49 @@
     "Rise from Lowest after Pivot (%)": 20.49
   },
   {
-    "Symbol": "ZENTUSDT",
-    "Earliest Date": "2024-05-04",
-    "Latest Date": "2025-07-10",
-    "Prev High": 0.01207,
-    "Lowest": 0.006922,
-    "After Pivot High": 0.008273,
-    "Drop from Prev High (%)": -42.65,
-    "Rise from Lowest after Pivot (%)": 19.52
+    "Symbol": "CHEXUSDT",
+    "Earliest Date": "2024-05-12",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.284,
+    "Lowest": 0.12,
+    "After Pivot High": 0.1444,
+    "Drop from Prev High (%)": -57.75,
+    "Rise from Lowest after Pivot (%)": 20.33
   },
   {
-    "Symbol": "AEROUSDT",
-    "Earliest Date": "2024-12-15",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.9683,
-    "Lowest": 0.696,
-    "After Pivot High": 0.8313,
-    "Drop from Prev High (%)": -28.12,
-    "Rise from Lowest after Pivot (%)": 19.44
+    "Symbol": "NFTUSDT",
+    "Earliest Date": "2021-06-18",
+    "Latest Date": "2025-07-13",
+    "Prev High": 4.567e-7,
+    "Lowest": 3.831e-7,
+    "After Pivot High": 4.604e-7,
+    "Drop from Prev High (%)": -16.12,
+    "Rise from Lowest after Pivot (%)": 20.18
+  },
+  {
+    "Symbol": "SUNUSDT",
+    "Earliest Date": "2021-06-07",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.020267,
+    "Lowest": 0.015767,
+    "After Pivot High": 0.01892,
+    "Drop from Prev High (%)": -22.2,
+    "Rise from Lowest after Pivot (%)": 20
+  },
+  {
+    "Symbol": "XMRUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 420.8,
+    "Lowest": 287.43,
+    "After Pivot High": 343,
+    "Drop from Prev High (%)": -31.69,
+    "Rise from Lowest after Pivot (%)": 19.33
   },
   {
     "Symbol": "GMXUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2022-05-08",
+    "Latest Date": "2025-07-13",
     "Prev High": 18.21,
     "Lowest": 12.25,
     "After Pivot High": 14.58,
@@ -3371,8 +3421,8 @@
   },
   {
     "Symbol": "BGBUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 5.84169,
     "Lowest": 3.90503,
     "After Pivot High": 4.64461,
@@ -3380,9 +3430,39 @@
     "Rise from Lowest after Pivot (%)": 18.94
   },
   {
+    "Symbol": "SOLVUSDT",
+    "Earliest Date": "2025-01-19",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.04859,
+    "Lowest": 0.04204,
+    "After Pivot High": 0.0499,
+    "Drop from Prev High (%)": -13.48,
+    "Rise from Lowest after Pivot (%)": 18.7
+  },
+  {
+    "Symbol": "TRXUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.2953,
+    "Lowest": 0.2588,
+    "After Pivot High": 0.3069,
+    "Drop from Prev High (%)": -12.36,
+    "Rise from Lowest after Pivot (%)": 18.59
+  },
+  {
+    "Symbol": "TUSDT",
+    "Earliest Date": "2022-02-20",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.02502,
+    "Lowest": 0.0152,
+    "After Pivot High": 0.01798,
+    "Drop from Prev High (%)": -39.25,
+    "Rise from Lowest after Pivot (%)": 18.29
+  },
+  {
     "Symbol": "PIUSDT",
     "Earliest Date": "2025-02-22",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.66597,
     "Lowest": 0.44606,
     "After Pivot High": 0.52744,
@@ -3390,19 +3470,9 @@
     "Rise from Lowest after Pivot (%)": 18.24
   },
   {
-    "Symbol": "NFTUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 4.567e-7,
-    "Lowest": 3.831e-7,
-    "After Pivot High": 4.524e-7,
-    "Drop from Prev High (%)": -16.12,
-    "Rise from Lowest after Pivot (%)": 18.09
-  },
-  {
     "Symbol": "MSQUSDT",
     "Earliest Date": "2025-01-23",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 27.998,
     "Lowest": 12.503,
     "After Pivot High": 14.757,
@@ -3410,19 +3480,19 @@
     "Rise from Lowest after Pivot (%)": 18.03
   },
   {
-    "Symbol": "TRXUSDT",
-    "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.2953,
-    "Lowest": 0.2589,
-    "After Pivot High": 0.3034,
-    "Drop from Prev High (%)": -12.33,
-    "Rise from Lowest after Pivot (%)": 17.19
+    "Symbol": "LAYERUSDT",
+    "Earliest Date": "2025-02-13",
+    "Latest Date": "2025-07-13",
+    "Prev High": 3.5684,
+    "Lowest": 0.6087,
+    "After Pivot High": 0.7132,
+    "Drop from Prev High (%)": -82.94,
+    "Rise from Lowest after Pivot (%)": 17.17
   },
   {
     "Symbol": "ANIMEUSDT",
     "Earliest Date": "2025-01-25",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.04618,
     "Lowest": 0.01621,
     "After Pivot High": 0.01899,
@@ -3430,29 +3500,19 @@
     "Rise from Lowest after Pivot (%)": 17.15
   },
   {
-    "Symbol": "SUNUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.020267,
-    "Lowest": 0.015767,
-    "After Pivot High": 0.018437,
-    "Drop from Prev High (%)": -22.2,
-    "Rise from Lowest after Pivot (%)": 16.93
-  },
-  {
-    "Symbol": "ALUSDT",
-    "Earliest Date": "2024-05-10",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.216,
-    "Lowest": 0.0745,
-    "After Pivot High": 0.0869,
-    "Drop from Prev High (%)": -65.51,
-    "Rise from Lowest after Pivot (%)": 16.64
+    "Symbol": "TONUSDT",
+    "Earliest Date": "2022-05-15",
+    "Latest Date": "2025-07-13",
+    "Prev High": 4.21,
+    "Lowest": 2.604,
+    "After Pivot High": 3.045,
+    "Drop from Prev High (%)": -38.15,
+    "Rise from Lowest after Pivot (%)": 16.94
   },
   {
     "Symbol": "CHEEMSUSDT",
     "Earliest Date": "2024-10-26",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.00000188,
     "Lowest": 0.0000012419,
     "After Pivot High": 0.000001445,
@@ -3461,8 +3521,8 @@
   },
   {
     "Symbol": "IOTXUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.02641,
     "Lowest": 0.01976,
     "After Pivot High": 0.02296,
@@ -3470,29 +3530,29 @@
     "Rise from Lowest after Pivot (%)": 16.19
   },
   {
-    "Symbol": "BNBUSDT",
+    "Symbol": "JSTUSDT",
     "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 697.73,
-    "Lowest": 601.25,
-    "After Pivot High": 697.23,
-    "Drop from Prev High (%)": -13.83,
-    "Rise from Lowest after Pivot (%)": 15.96
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.04396,
+    "Lowest": 0.03205,
+    "After Pivot High": 0.03722,
+    "Drop from Prev High (%)": -27.09,
+    "Rise from Lowest after Pivot (%)": 16.13
   },
   {
-    "Symbol": "TONUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 4.211,
-    "Lowest": 2.604,
-    "After Pivot High": 3.016,
-    "Drop from Prev High (%)": -38.16,
-    "Rise from Lowest after Pivot (%)": 15.82
+    "Symbol": "BNBUSDT",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 697.72,
+    "Lowest": 601.44,
+    "After Pivot High": 697.23,
+    "Drop from Prev High (%)": -13.8,
+    "Rise from Lowest after Pivot (%)": 15.93
   },
   {
     "Symbol": "MXUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 3.06,
     "Lowest": 2.15,
     "After Pivot High": 2.4885,
@@ -3502,7 +3562,7 @@
   {
     "Symbol": "LGCTUSDT",
     "Earliest Date": "2025-01-09",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 2.236,
     "Lowest": 1.5984,
     "After Pivot High": 1.8496,
@@ -3510,79 +3570,19 @@
     "Rise from Lowest after Pivot (%)": 15.72
   },
   {
-    "Symbol": "XMRUSDT",
-    "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
-    "Prev High": 420.8,
-    "Lowest": 287.43,
-    "After Pivot High": 331.53,
-    "Drop from Prev High (%)": -31.69,
-    "Rise from Lowest after Pivot (%)": 15.34
-  },
-  {
-    "Symbol": "FAIUSDT",
-    "Earliest Date": "2024-12-23",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.03054,
-    "Lowest": 0.01507,
-    "After Pivot High": 0.01738,
-    "Drop from Prev High (%)": -50.65,
-    "Rise from Lowest after Pivot (%)": 15.33
-  },
-  {
-    "Symbol": "JSTUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.04396,
-    "Lowest": 0.03205,
-    "After Pivot High": 0.0369,
-    "Drop from Prev High (%)": -27.09,
-    "Rise from Lowest after Pivot (%)": 15.13
-  },
-  {
     "Symbol": "KAVAUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.5084,
     "Lowest": 0.3833,
-    "After Pivot High": 0.4358,
+    "After Pivot High": 0.4408,
     "Drop from Prev High (%)": -24.61,
-    "Rise from Lowest after Pivot (%)": 13.7
-  },
-  {
-    "Symbol": "SOLVUSDT",
-    "Earliest Date": "2025-01-19",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.04859,
-    "Lowest": 0.04204,
-    "After Pivot High": 0.04765,
-    "Drop from Prev High (%)": -13.48,
-    "Rise from Lowest after Pivot (%)": 13.34
-  },
-  {
-    "Symbol": "LAYERUSDT",
-    "Earliest Date": "2025-02-13",
-    "Latest Date": "2025-07-11",
-    "Prev High": 3.5684,
-    "Lowest": 0.6087,
-    "After Pivot High": 0.6893,
-    "Drop from Prev High (%)": -82.94,
-    "Rise from Lowest after Pivot (%)": 13.24
-  },
-  {
-    "Symbol": "TUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.02502,
-    "Lowest": 0.0152,
-    "After Pivot High": 0.01719,
-    "Drop from Prev High (%)": -39.25,
-    "Rise from Lowest after Pivot (%)": 13.09
+    "Rise from Lowest after Pivot (%)": 15
   },
   {
     "Symbol": "BDCAUSDT",
     "Earliest Date": "2025-02-28",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.01,
     "Lowest": 0.9396,
     "After Pivot High": 1.0463,
@@ -3591,18 +3591,38 @@
   },
   {
     "Symbol": "KAIAUSDT",
-    "Earliest Date": "2024-02-27",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.2019,
+    "Earliest Date": "2021-01-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.20158,
     "Lowest": 0.14759,
     "After Pivot High": 0.1637,
-    "Drop from Prev High (%)": -26.9,
+    "Drop from Prev High (%)": -26.78,
     "Rise from Lowest after Pivot (%)": 10.92
+  },
+  {
+    "Symbol": "BDXUSDT",
+    "Earliest Date": "2021-10-24",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.0766,
+    "Lowest": 0.059,
+    "After Pivot High": 0.06467,
+    "Drop from Prev High (%)": -22.98,
+    "Rise from Lowest after Pivot (%)": 9.61
+  },
+  {
+    "Symbol": "GOMININGUSDT",
+    "Earliest Date": "2021-12-12",
+    "Latest Date": "2025-07-13",
+    "Prev High": 0.5101,
+    "Lowest": 0.4055,
+    "After Pivot High": 0.4441,
+    "Drop from Prev High (%)": -20.51,
+    "Rise from Lowest after Pivot (%)": 9.52
   },
   {
     "Symbol": "GCBUSDT",
     "Earliest Date": "2024-06-30",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 0.0933,
     "Lowest": 0.05107,
     "After Pivot High": 0.05544,
@@ -3610,19 +3630,19 @@
     "Rise from Lowest after Pivot (%)": 8.56
   },
   {
-    "Symbol": "GOMININGUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.5101,
-    "Lowest": 0.4055,
-    "After Pivot High": 0.4399,
-    "Drop from Prev High (%)": -20.51,
-    "Rise from Lowest after Pivot (%)": 8.48
+    "Symbol": "ULTIMAUSDT",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
+    "Prev High": 20514.61,
+    "Lowest": 6201,
+    "After Pivot High": 6730,
+    "Drop from Prev High (%)": -69.77,
+    "Rise from Lowest after Pivot (%)": 8.53
   },
   {
     "Symbol": "KCSUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-04-25",
+    "Latest Date": "2025-07-13",
     "Prev High": 12.1172,
     "Lowest": 10.6759,
     "After Pivot High": 11.4918,
@@ -3631,8 +3651,8 @@
   },
   {
     "Symbol": "JTOUSDT",
-    "Earliest Date": "2024-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 2.418,
     "Lowest": 1.892,
     "After Pivot High": 2.03,
@@ -3640,19 +3660,9 @@
     "Rise from Lowest after Pivot (%)": 7.29
   },
   {
-    "Symbol": "CHEXUSDT",
-    "Earliest Date": "2024-05-12",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.284,
-    "Lowest": 0.12,
-    "After Pivot High": 0.1281,
-    "Drop from Prev High (%)": -57.75,
-    "Rise from Lowest after Pivot (%)": 6.75
-  },
-  {
     "Symbol": "PAXGUSDT",
-    "Earliest Date": "2021-01-03",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 3574.73,
     "Lowest": 3199,
     "After Pivot High": 3401.25,
@@ -3660,19 +3670,9 @@
     "Rise from Lowest after Pivot (%)": 6.32
   },
   {
-    "Symbol": "BDXUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 0.0766,
-    "Lowest": 0.059,
-    "After Pivot High": 0.06244,
-    "Drop from Prev High (%)": -22.98,
-    "Rise from Lowest after Pivot (%)": 5.83
-  },
-  {
     "Symbol": "OKBUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2021-09-30",
+    "Latest Date": "2025-07-13",
     "Prev High": 56.255,
     "Lowest": 47.901,
     "After Pivot High": 50.487,
@@ -3681,8 +3681,8 @@
   },
   {
     "Symbol": "ZBUUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 3.73,
     "Lowest": 2.8214,
     "After Pivot High": 2.9581,
@@ -3691,48 +3691,38 @@
   },
   {
     "Symbol": "XAUTUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 3529.97,
     "Lowest": 3250,
-    "After Pivot High": 3355,
+    "After Pivot High": 3366.81,
     "Drop from Prev High (%)": -7.93,
-    "Rise from Lowest after Pivot (%)": 3.23
+    "Rise from Lowest after Pivot (%)": 3.59
   },
   {
     "Symbol": "EURIUSDT",
     "Earliest Date": "2024-08-30",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.1834,
     "Lowest": 1.1454,
-    "After Pivot High": 1.1787,
+    "After Pivot High": 1.1806,
     "Drop from Prev High (%)": -3.21,
-    "Rise from Lowest after Pivot (%)": 2.91
+    "Rise from Lowest after Pivot (%)": 3.07
   },
   {
     "Symbol": "FTNUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 4.4639,
     "Lowest": 4.38774,
-    "After Pivot High": 4.4733,
+    "After Pivot High": 4.50602,
     "Drop from Prev High (%)": -1.71,
-    "Rise from Lowest after Pivot (%)": 1.95
-  },
-  {
-    "Symbol": "ULTIMAUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
-    "Prev High": 20514.61,
-    "Lowest": 6201,
-    "After Pivot High": 6312,
-    "Drop from Prev High (%)": -69.77,
-    "Rise from Lowest after Pivot (%)": 1.79
+    "Rise from Lowest after Pivot (%)": 2.7
   },
   {
     "Symbol": "UPCUSDT",
-    "Earliest Date": "2024-02-29",
-    "Latest Date": "2025-07-11",
+    "Earliest Date": "2024-03-03",
+    "Latest Date": "2025-07-13",
     "Prev High": 4.4658,
     "Lowest": 3.4896,
     "After Pivot High": 3.5427,
@@ -3742,7 +3732,7 @@
   {
     "Symbol": "XUSDUSDT",
     "Earliest Date": "2024-07-19",
-    "Latest Date": "2025-07-11",
+    "Latest Date": "2025-07-13",
     "Prev High": 1.0021,
     "Lowest": 1.0002,
     "After Pivot High": 1.0004,

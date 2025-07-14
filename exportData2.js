@@ -67,7 +67,9 @@ function transformToPresentation(symbol) {
 
     for (const candle of candles) {
         const openTime = new Date(candle.open_time);
-        if (openTime < PIVOT_RANGE.pivot0) continue;
+        if (openTime < PIVOT_RANGE.pivot0) {
+            continue;
+        }
 
         if (openTime <= PIVOT_RANGE.pivot1) {
             prevHigh = Math.max(prevHigh, parseFloat(candle.high));

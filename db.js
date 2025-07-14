@@ -33,8 +33,8 @@ export function saveCandles(symbol, rows) {
     const insertMany = db.transaction((data) => {
         for (const r of data) {
             insert.run(symbol, r[0], r[1], r[2], r[3], r[4], r[5], r[6]);
-            console.log("Inserting candle...");
-            console.log(`${new Date(parseInt(r[0])).toISOString()} ${r[1]} ${r[2]} ${r[3]} ${r[4]} ${r[5]} ${r[6]}`);
+            // console.log("Inserting candle...");
+            // console.log(`${new Date(parseInt(r[0])).toISOString()} ${r[1]} ${r[2]} ${r[3]} ${r[4]} ${r[5]} ${r[6]}`);
         }
     });
     insertMany(rows);

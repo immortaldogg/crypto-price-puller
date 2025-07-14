@@ -29,6 +29,7 @@ async function main() {
             }
         }
 
+        console.log(new Date(startTime).toISOString());
         const candles = await fetchOHLCV(coin.exchangeSymbol, startTime, NOW, 1460);
         if (candles.length <= 0) {
             console.log(`\n🔄 No info on ${coin.exchangeSymbol}...`);

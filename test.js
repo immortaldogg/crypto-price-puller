@@ -1,9 +1,7 @@
-import { exportToCsvBySymbol } from "./db.js";
+import { exportToCsvBySymbol, getCandlesBySymbol } from "./db.js";
 import { getTopCoins, getCoinMarketcapCoins } from "./fetchCoins.js";
 import { fetchOHLCV } from "./fetchOHLCV.js";
 import { saveCandles } from "./db.js";
-
-
 
 // let rs = await getTopCoins();
 
@@ -17,9 +15,12 @@ import { saveCandles } from "./db.js";
 // const START_TIME = new Date("2024-01-01T00:00:00Z").getTime();
 // const NOW = Date.now();
 
-// let exchangeSymbol = 'XMRUSDT';
+// let exchangeSymbol = 'SEIUSDT';
 
 // const candles = await fetchOHLCV(exchangeSymbol, START_TIME, NOW, 1000);
+
+// console.log(new Date(candles[0][6]).toISOString());
+// console.log(new Date(candles[candles.length - 1][6]).toISOString());
 
 // if (candles.length <= 0) {
 //     console.log(`\n🔄 No info on ${exchangeSymbol}...`);
@@ -35,5 +36,8 @@ import { saveCandles } from "./db.js";
 //     'RedText'
 // );
 
-let rs = await getCoinMarketcapCoins();
-console.log(rs);
+// let rs = await getCoinMarketcapCoins();
+// console.log(rs);
+
+let arr = getCandlesBySymbol('INJUSDT');
+console.log(new Date(arr[0].open_time).toISOString());

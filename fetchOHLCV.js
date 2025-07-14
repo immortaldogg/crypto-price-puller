@@ -3,7 +3,7 @@ import fetch from "node-fetch";
 
 export async function fetchOHLCV(symbol, startTime, endTime, limit = 1) {
     const url = `https://api.mexc.com/api/v3/klines?symbol=${symbol}&interval=1d&limit=${limit}&startTime=${startTime}&endTime=${endTime}`;
-
+    // const url = `https://api.mexc.com/api/v3/klines?symbol=${symbol}&interval=1d&limit=${limit}&startTime=${startTime}`;
     try {
         const res = await fetch(url);
         if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
